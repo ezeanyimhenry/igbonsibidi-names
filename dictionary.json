@@ -1,0 +1,140 @@
+[
+  {
+    "id": "random1",
+    "igboWord": "Chinonso",
+    "nsibidi": "魂帰鉱",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God is nearby"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Chukwu", "Onye"]
+  },
+  {
+    "id": "random2",
+    "igboWord": "Obinna",
+    "nsibidi": "心穏",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["Father's heart"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Nna", "Obi"]
+  },
+  {
+    "id": "random3",
+    "igboWord": "Adaeze",
+    "nsibidi": "割王",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["daughter of a king", "princess"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Ada", "Eze"]
+  },
+  {
+    "id": "random4",
+    "igboWord": "Chukwu",
+    "nsibidi": "魂大",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God Almighty"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Chi", "Ukwu"]
+  },
+  {
+    "id": "random5",
+    "igboWord": "Uche",
+    "nsibidi": "虞",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["Thought, will"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": [],
+    "relatedTerms": ["Obi", "Mmụọ"]
+  },
+  {
+    "id": "random6",
+    "igboWord": "Nkem",
+    "nsibidi": "外花",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["Mine"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": [],
+    "relatedTerms": ["Nke", "Mu"]
+  },
+  {
+    "id": "random7",
+    "igboWord": "òriàkụ̀",
+    "nsibidi": "寍概圧",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": [
+          "a formal title used to address a married woman; missus; Mrs"
+        ],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": [],
+    "relatedTerms": ["Oriaku"]
+  },
+  {
+    "id": "random8",
+    "igboWord": "Kelechi",
+    "nsibidi": "液魂",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["Thank God"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": [],
+    "relatedTerms": ["Kele", "Chi"]
+  }
+]
