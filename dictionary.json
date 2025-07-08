@@ -884,5 +884,56 @@
     "attributes": null,
     "tags": ["name"],
     "relatedTerms": ["chinwe", "chi", "ndu"]
+  },
+  {
+    "id": "random53",
+    "igboWord": "Chukwudị̀",
+    "nsibidi": "魂大延",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God Almighty exists"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["chukwu", "chidi"]
+  },
+  {
+    "id": "random54",
+    "igboWord": "Chukwuemeka",
+    "nsibidi": "魂大e壊環",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God has done great things"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["chukwu", "emeka"]
+  },
+  {
+    "id": "random55",
+    "igboWord": "emeka",
+    "nsibidi": "e壊環",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["has done well"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["chukwuemeka"]
   }
 ]
