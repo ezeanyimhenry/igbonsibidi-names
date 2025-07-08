@@ -647,4 +647,21 @@
     "tags": ["name"],
     "relatedTerms": ["oruebube", "ebube", "oru"]
   },
+  {
+    "id": "random39",
+    "igboWord": "Chidimma",
+    "nsibidi": "魂延寐煙",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God is good"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["chi", "mma", "ugomma"]
+  }
 ]
