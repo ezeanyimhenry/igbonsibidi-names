@@ -1717,5 +1717,90 @@
     "attributes": null,
     "tags": ["name"],
     "relatedTerms": ["echi"]
+  },
+  {
+    "id": "random102",
+    "igboWord": "Nwachukwu",
+    "nsibidi": "子魂大",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["child of God."],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["chukwu", "Nwa"]
+  },
+  {
+    "id": "random103",
+    "igboWord": "Nwaike",
+    "nsibidi": "子果",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["child of strength; strong child"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Nwachukwu", "Nwa"]
+  },
+  {
+    "id": "random104",
+    "igboWord": "Eze",
+    "nsibidi": "王",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["King"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["chi", "Ezechi"]
+  },
+  {
+    "id": "random105",
+    "igboWord": "Ezechi",
+    "nsibidi": "王魂",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["king of the spirit; king sent by God."],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["chi", "Eze"]
+  },
+  {
+    "id": "random106",
+    "igboWord": "Ezeanyi",
+    "nsibidi": "王菓",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["the king of us all; our king."],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["anyi", "Eze"]
   }
 ]
