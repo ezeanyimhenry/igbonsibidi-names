@@ -663,5 +663,56 @@
     "attributes": null,
     "tags": ["name"],
     "relatedTerms": ["chi", "mma", "ugomma"]
+  },
+  {
+    "id": "random40",
+    "igboWord": "Chidị̀",
+    "nsibidi": "魂延",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God exists"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["chi", "chidimma"]
+  },
+  {
+    "id": "random41",
+    "igboWord": "Chidị̀èberè",
+    "nsibidi": "魂延寉墾",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God is merciful"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["chi", "ebere", "eberechi"]
+  },
+  {
+    "id": "random41",
+    "igboWord": "Chidị̀èbùbè",
+    "nsibidi": "魂延紳",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God is glorious"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["chi", "ebube", "oluebube"]
   }
 ]
