@@ -1615,5 +1615,107 @@
     "attributes": null,
     "tags": ["name"],
     "relatedTerms": ["uzo", "oma"]
+  },
+  {
+    "id": "random96",
+    "igboWord": "Okoro",
+    "nsibidi": "奴男",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["young male; boy"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Okoronkwo", "okorobia"]
+  },
+  {
+    "id": "random97",
+    "igboWord": "Okorobia",
+    "nsibidi": "奴男若",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["young male; boy; male youth; teenager"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Okoronkwo", "okoro"]
+  },
+  {
+    "id": "random98",
+    "igboWord": "Ejiogwu",
+    "nsibidi": "e議続",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["one who possesses strength or power; rooted in mystical strength."],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Ejiogu"]
+  },
+  {
+    "id": "random99",
+    "igboWord": "Ejiogu",
+    "nsibidi": "e議続",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["one who possesses strength or power; rooted in mystical strength."],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Ejiogwu"]
+  },
+  {
+    "id": "random100",
+    "igboWord": "Obi",
+    "nsibidi": "心穏",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["heart; home"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Obinna"]
+  },
+  {
+    "id": "random101",
+    "igboWord": "Amaechi",
+    "nsibidi": "á丸患",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["who knows tomorrow?; no one knows tomorrow."],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["echi"]
   }
 ]
