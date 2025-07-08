@@ -136,5 +136,515 @@
     "attributes": null,
     "tags": [],
     "relatedTerms": ["Kele", "Chi"]
-  }
+  },
+  {
+    "id": "random9",
+    "igboWord": "Adanna",
+    "nsibidi": "割穏",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["daughter of her father", "father's daughter"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Ada", "Nna"]
+  },
+  {
+    "id": "random10",
+    "igboWord": "Adannaya",
+    "nsibidi": "割穏案",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["her father's (first) daughter"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Ada", "Nna", "ya"]
+  },
+  {
+    "id": "random11",
+    "igboWord": "Akachi",
+    "nsibidi": "稼魂",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["hand of God; God's hand"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Aka", "Chi"]
+  },
+  {
+    "id": "random12",
+    "igboWord": "Akachukwu",
+    "nsibidi": "稼魂大",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["hand of God Almighty; God Almighty's hand"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Aka", "Chukwu", "Chi"]
+  },
+  {
+    "id": "random13",
+    "igboWord": "Amadi",
+    "nsibidi": "㪘",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["nobleman; aristocrat; free-born; freeman"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Amadi"]
+  },
+  {
+    "id": "random14",
+    "igboWord": "Ugomma",
+    "nsibidi": "船寐煙",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["reward or award for beauty; prize of love"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["mma", "Ugo"]
+  },
+  {
+    "id": "random15",
+    "igboWord": "ịhụ̀naanya",
+    "nsibidi": "愛",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["love"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["anya"]
+  },
+  {
+    "id": "random16",
+    "igboWord": "Nkechi",
+    "nsibidi": "外魂",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["What belongs to God; God's own"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Nkechineye", "Nkechukwu", "chi"]
+  },
+  {
+    "id": "random17",
+    "igboWord": "Nkechukwu",
+    "nsibidi": "外魂大",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["What belongs to God; God's own"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Nkechineye", "Nkechi", "chi"]
+  },
+  {
+    "id": "random18",
+    "igboWord": "ònyinye",
+    "nsibidi": "寍角角",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["gift; present"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Onyinyechukwu", "Onyinyechi"]
+  },
+  {
+    "id": "random19",
+    "igboWord": "ònyinyechukwu",
+    "nsibidi": "寍角角魂大",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["gift from God; God's gift"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Onyinye", "Onyinyechi", "chukwu"]
+  },
+  {
+    "id": "random20",
+    "igboWord": "isiọma",
+    "nsibidi": "簡寊肢",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["good luck; good fortune; favour"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Chioma", "Oma", "awele"]
+  },
+  {
+    "id": "random21",
+    "igboWord": "chiọma",
+    "nsibidi": "魂寊肢",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["good God; luck; arriving and meeting with luck; encountering luck at arrival (e.g. meeting a friend at table on arrival at his house);"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["isiọma", "Oma", "awele"]
+  },
+  {
+    "id": "random22",
+    "igboWord": "Chiāmākā",
+    "nsibidi": "魂寀煙環",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God is so pleasant; God is awesome"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["āmākā", "chi"]
+  },
+  {
+    "id": "random23",
+    "igboWord": "āmākā",
+    "nsibidi": "寀煙環",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["pleasant; awesome"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["chiāmākā"]
+  },
+  {
+    "id": "random24",
+    "igboWord": "Nneāmākā",
+    "nsibidi": "温寀煙環",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["motherhood is pleasant"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["chiāmākā"]
+  },
+  {
+    "id": "random25",
+    "igboWord": "Àmàràchukwu",
+    "nsibidi": "業魂大",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["grace of God; God's grace"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Chukwu", "Amara", "Amarachi"]
+  },
+  {
+    "id": "random26",
+    "igboWord": "Àmàràchi",
+    "nsibidi": "業魂",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["grace of God; God's grace"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Chi", "Amara", "Amarachukwu"]
+  },
+  {
+    "id": "random27",
+    "igboWord": "Àmàrà",
+    "nsibidi": "業",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["grace; free or unmerited favor"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Amarachukwu", "Amarachi"]
+  },
+  {
+    "id": "random28",
+    "igboWord": "àzụbuike",
+    "nsibidi": "暇郷果",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["the past is my strength"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["ike", "azu"]
+  },
+  {
+    "id": "random29",
+    "igboWord": "Chibueze",
+    "nsibidi": "魂郷王",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God is King"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["eze", "chi"]
+  },
+  {
+    "id": "random30",
+    "igboWord": "Chukwubueze",
+    "nsibidi": "魂大郷王",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God almighty is King"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Chibueze", "eze"]
+  },
+  {
+    "id": "random31",
+    "igboWord": "Chukwubuike",
+    "nsibidi": "魂大郷果",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God almighty is (my) strength"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Chibuike", "ike"]
+  },
+  {
+    "id": "random32",
+    "igboWord": "Chibuike",
+    "nsibidi": "魂郷果",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God is (my) strength"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["ike", "chi"]
+  },
+  {
+    "id": "random33",
+    "igboWord": "Chibuzo",
+    "nsibidi": "魂郷畏",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God is the way; God leads the way"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Chi", "uzo"]
+  },
+  {
+    "id": "random34",
+    "igboWord": "èberè",
+    "nsibidi": "寉墾",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["mercy; sympathy"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["eberechi", "amara"]
+  },
+  {
+    "id": "random35",
+    "igboWord": "èberèchi",
+    "nsibidi": "寉墾魂",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["mercy; sympathy"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["ebere", "chi", "amara"]
+  },
+  {
+    "id": "random36",
+    "igboWord": "èbùbè",
+    "nsibidi": "紳",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["glory; aura"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["ebere", "amara"]
+  },
+  {
+    "id": "random37",
+    "igboWord": "ọrụèbùbè",
+    "nsibidi": "寊奥紳",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["ended in God’s glory"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["oluebube", "ebube", "oru"]
+  },
+  {
+    "id": "random38",
+    "igboWord": "ọlụèbùbè",
+    "nsibidi": "寊奥紳",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["Miraculous work of God"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["oruebube", "ebube", "oru"]
+  },
 ]
