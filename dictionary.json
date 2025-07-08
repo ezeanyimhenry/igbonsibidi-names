@@ -905,7 +905,7 @@
   {
     "id": "random54",
     "igboWord": "Chukwuemeka",
-    "nsibidi": "魂大e壊環",
+    "nsibidi": "魂大ę壊環",
     "definitions": [
       {
         "wordClass": null,
@@ -922,7 +922,7 @@
   {
     "id": "random55",
     "igboWord": "emeka",
-    "nsibidi": "e壊環",
+    "nsibidi": "ę壊環",
     "definitions": [
       {
         "wordClass": null,
@@ -935,5 +935,532 @@
     "attributes": null,
     "tags": ["name"],
     "relatedTerms": ["chukwuemeka"]
+  },
+  {
+    "id": "random56",
+    "igboWord": "èkèle",
+    "nsibidi": "ë液",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["greeting; gratitude; thanks"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["kelechi", "ekene"]
+  },
+  {
+    "id": "random57",
+    "igboWord": "èkèledirichukwu",
+    "nsibidi": "ë液延ri魂大",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["All thanks belong to God"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["kelechi", "ekene", "ekele"]
+  },
+  {
+    "id": "random58",
+    "igboWord": "Ekwueme",
+    "nsibidi": "ë鋭ę壊",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["he says, he does"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["kelechi", "ekene", "ekele"]
+  },
+  {
+    "id": "random59",
+    "igboWord": "Enyinnaya",
+    "nsibidi": "込穏案",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["his father's friend"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["ikenna", "nna", "enyi"]
+  },
+  {
+    "id": "random60",
+    "igboWord": "Ikennà",
+    "nsibidi": "果穏",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["father's power or strength or authority"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["ikechukwu", "nna", "ike"]
+  },
+  {
+    "id": "random61",
+    "igboWord": "Kelenna",
+    "nsibidi": "液穏",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["Thank the Father"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["ikenna", "nna", "kelechi"]
+  },
+  {
+    "id": "random62",
+    "igboWord": "Nkechinyere",
+    "nsibidi": "外魂角rë",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["what God has given; A gift from God"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Nkechi", "chineyere"]
+  },
+  {
+    "id": "random63",
+    "igboWord": "Chinyere",
+    "nsibidi": "魂角rë",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God has given; given by God"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Nkechi", "Nkechineyere"]
+  },
+  {
+    "id": "random64",
+    "igboWord": "Nkiru",
+    "nsibidi": "外垣",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["the future is greater; what is to come is better"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Nkihu", "Nkiruka"]
+  },
+  {
+    "id": "random65",
+    "igboWord": "Nkiruka",
+    "nsibidi": "外垣環",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["the future is greater; the best is yet to come"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Nkihuka", "Nkiru"]
+  },
+  {
+    "id": "random66",
+    "igboWord": "Nkihu",
+    "nsibidi": "外垣",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["the future is greater; what is to come is better"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Nkiru", "Nkiruka"]
+  },
+  {
+    "id": "random67",
+    "igboWord": "Nkihuka",
+    "nsibidi": "外垣環",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["the future is greater; the best is yet to come"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Nkiruka", "Nkiru"]
+  },
+  {
+    "id": "random68",
+    "igboWord": "Nnamdi",
+    "nsibidi": "穏征延",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["my father lives"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Nna", "Chidi"]
+  },
+  {
+    "id": "random69",
+    "igboWord": "Nneka",
+    "nsibidi": "温環",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["motherhood is the best"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Nne", "Nnena"]
+  },
+  {
+    "id": "random70",
+    "igboWord": "Nnenna",
+    "nsibidi": "温穏",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["father’s mother; paternal grandmother"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Nne", "Nneka"]
+  },
+  {
+    "id": "random71",
+    "igboWord": "Nnanna",
+    "nsibidi": "穏穏",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["father's father; paternal grandfather."],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Nna", "Nnenna"]
+  },
+  {
+    "id": "random72",
+    "igboWord": "Nnenne",
+    "nsibidi": "温温",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["mother's mother; maternal grandmother."],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Nnanna", "Nnenna"]
+  },
+  {
+    "id": "random73",
+    "igboWord": "Ogechi",
+    "nsibidi": "潰魂",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God’s time"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Oge", "Chi"]
+  },
+  {
+    "id": "random74",
+    "igboWord": "Ogechukwu",
+    "nsibidi": "潰魂大",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God Almighty’s time"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Ogechi", "Oge", "Chukwu"]
+  },
+  {
+    "id": "random75",
+    "igboWord": "Oluchukwu",
+    "nsibidi": "奥魂大",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God Almighty’s work; the work of God Almighty"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Oluchi", "Olu", "Chukwu"]
+  },
+  {
+    "id": "random76",
+    "igboWord": "Oluchi",
+    "nsibidi": "奥魂",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God’s work; the work of God"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Oluchukwu", "Olu", "Chi"]
+  },
+  {
+    "id": "random77",
+    "igboWord": "Onyeka",
+    "nsibidi": "衣環",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["Who is greater?"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Onyekachi", "Onyedika", "Onyedikachi"]
+  },
+  {
+    "id": "random78",
+    "igboWord": "Onyekachi",
+    "nsibidi": "衣環魂",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["Who is greater than God?"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Onyeka", "onyedikachi", "Chi"]
+  },
+  {
+    "id": "random79",
+    "igboWord": "Onyekachukwu",
+    "nsibidi": "衣環魂大",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["Who is greater than God Almighty?"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Onyeka", "Onyedika", "Chukwu"]
+  },
+  {
+    "id": "random80",
+    "igboWord": "Onyedika",
+    "nsibidi": "衣延環",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["Who is like the Father?"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Onyedikachi", "Onyeka", "Onyekachi"]
+  },
+  {
+    "id": "random81",
+    "igboWord": "Onyedikachi",
+    "nsibidi": "衣延環魂",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["Who is like God?"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Onyedika", "Onyeka", "Chi"]
+  },
+  {
+    "id": "random82",
+    "igboWord": "Onyedikachukwu",
+    "nsibidi": "衣延環魂大",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["Who is like God Almighty?"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Onyekachi", "Onyedika", "Chukwu"]
+  },
+  {
+    "id": "random83",
+    "igboWord": "Uchechi",
+    "nsibidi": "虞魂",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God’s will; the mind of God."],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Uche", "chi"]
+  },
+  {
+    "id": "random84",
+    "igboWord": "Uchechukwu",
+    "nsibidi": "虞魂大",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God Almighty’s will; the mind of God Almighty."],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Uche", "Chukwu"]
+  },
+  {
+    "id": "random85",
+    "igboWord": "Udo",
+    "nsibidi": "去",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["Peace."],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["udoka", "Udochi"]
+  },
+  {
+    "id": "random86",
+    "igboWord": "ùgò",
+    "nsibidi": "古",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["1. eagle; a large preying bird with a strong hooked beak and long broad wings, known for its keen sight and powerful soaring flight.  2. honor; a thing officially conferred as a distinction for an achievement"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Ugochi"]
   }
 ]
