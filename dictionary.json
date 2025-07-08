@@ -699,7 +699,7 @@
     "relatedTerms": ["chi", "ebere", "eberechi"]
   },
   {
-    "id": "random41",
+    "id": "random42",
     "igboWord": "Chidị̀èbùbè",
     "nsibidi": "魂延紳",
     "definitions": [
@@ -714,5 +714,175 @@
     "attributes": null,
     "tags": ["name"],
     "relatedTerms": ["chi", "ebube", "oluebube"]
+  },
+  {
+    "id": "random43",
+    "igboWord": "Chijindu",
+    "nsibidi": "魂議艶",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God holds my life"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["chi", "chijindum", "ndu"]
+  },
+  {
+    "id": "random44",
+    "igboWord": "Chijindum",
+    "nsibidi": "魂議艶花",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God holds my life"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["chi", "chijindu", "ndu"]
+  },
+  {
+    "id": "random45",
+    "igboWord": "Chika",
+    "nsibidi": "魂環",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God is greater"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["chi", "chubuike"]
+  },
+  {
+    "id": "random46",
+    "igboWord": "Chike",
+    "nsibidi": "魂傑",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God is the greatest; God's power"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["chika", "chubuike"]
+  },
+  {
+    "id": "random47",
+    "igboWord": "Chima",
+    "nsibidi": "魂丸",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God knows"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["chi", "chukwuma"]
+  },
+  {
+    "id": "random48",
+    "igboWord": "Chukwuma",
+    "nsibidi": "魂大丸",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God Almighty knows"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["chukwu", "chima"]
+  },
+  {
+    "id": "random49",
+    "igboWord": "Chinwe",
+    "nsibidi": "魂禾",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["“what God owns; God's possession"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["chi", "chinweike"]
+  },
+  {
+    "id": "random50",
+    "igboWord": "Chinweike",
+    "nsibidi": "魂禾傑",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God owns strength; Strength belongs to God"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["chinwe", "chi"]
+  },
+  {
+    "id": "random51",
+    "igboWord": "Chinwendu",
+    "nsibidi": "魂禾艶",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God owns life; Life belongs to God"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["chinwe", "chi", "ndu"]
+  },
+  {
+    "id": "random52",
+    "igboWord": "Chiwendu",
+    "nsibidi": "魂禾艶",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God owns life; Life belongs to God"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["chinwe", "chi", "ndu"]
   }
 ]
