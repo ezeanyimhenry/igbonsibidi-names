@@ -1462,5 +1462,158 @@
     "attributes": null,
     "tags": ["name"],
     "relatedTerms": ["Ugochi"]
+  },
+  {
+    "id": "random87",
+    "igboWord": "Udochi",
+    "nsibidi": "去魂",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God's peace"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["udo", "chi"]
+  },
+  {
+    "id": "random88",
+    "igboWord": "Udochukwu",
+    "nsibidi": "去魂大",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God Almighty's peace"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["udo", "chukwu", "udochi"]
+  },
+  {
+    "id": "random89",
+    "igboWord": "Ugochi",
+    "nsibidi": "古魂",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God’s glory; the glory of God."],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["ugo", "chi"]
+  },
+  {
+    "id": "random90",
+    "igboWord": "Ugochukwu",
+    "nsibidi": "古魂大",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God Almighty’s glory; the glory of God Almighty."],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["ugo", "chukwu", "ugochi"]
+  },
+  {
+    "id": "random91",
+    "igboWord": "Ugonna",
+    "nsibidi": "古穏",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["the Father's glory; glory of the Father."],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["ugo", "nna", "ugochi"]
+  },
+  {
+    "id": "random92",
+    "igboWord": "uzo",
+    "nsibidi": "畏",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["way; road; path"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Chibuzo", "uzochi"]
+  },
+  {
+    "id": "random93",
+    "igboWord": "uzochi",
+    "nsibidi": "畏魂",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God's way; the way of God."],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Chibuzo", "uzo"]
+  },
+  {
+    "id": "random94",
+    "igboWord": "uzochukwu",
+    "nsibidi": "畏魂大",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God Almighty's way; the way of God Almighty."],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Chibuzo", "uzochi"]
+  },
+  {
+    "id": "random95",
+    "igboWord": "uzoma",
+    "nsibidi": "畏寊肢",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["good path; good way."],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["uzo", "oma"]
   }
 ]
