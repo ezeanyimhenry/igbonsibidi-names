@@ -1687,7 +1687,7 @@
   {
     "id": "random100",
     "igboWord": "Obi",
-    "nsibidi": "心穏",
+    "nsibidi": "心",
     "definitions": [
       {
         "wordClass": null,
@@ -1870,5 +1870,1263 @@
     "attributes": null,
     "tags": ["name"],
     "relatedTerms": ["Chizitere", "Chukwu"]
+  },
+  {
+    "id": "random111",
+    "igboWord": "Ngozi",
+    "nsibidi": "ń岳向",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["Blessing"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["gozie"]
+  },
+  {
+    "id": "random112",
+    "igboWord": "Ngozichukwu",
+    "nsibidi": "ń岳向魂大",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God Almighty's blessing"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["gozie", "Ngozi"]
+  },
+  {
+    "id": "random113",
+    "igboWord": "Nmesoma",
+    "nsibidi": "ń壊剰寊肢",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["Good deeds; Goodness"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Oma"]
+  },
+  {
+    "id": "random114",
+    "igboWord": "Oma",
+    "nsibidi": "寊肢",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["Good deeds; Goodness"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Nmesoma"]
+  },
+  {
+    "id": "random115",
+    "igboWord": "Nmesomachukwu",
+    "nsibidi": "ń壊剰寊肢魂大",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["Goodness of God Almighty"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Oma"]
+  },
+  {
+    "id": "random116",
+    "igboWord": "Nmesomachi",
+    "nsibidi": "ń壊剰寊肢魂",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["Goodness of God"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Oma"]
+  },
+  {
+    "id": "random117",
+    "igboWord": "Chijiokem",
+    "nsibidi": "魂議具花",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God holds my portion; God is in control of my destiny."],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Chijioke", "Oke"]
+  },
+  {
+    "id": "random118",
+    "igboWord": "Chijioke",
+    "nsibidi": "魂議具花",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God holds the portion."],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Chijiokem", "Oke"]
+  },
+  {
+    "id": "random119",
+    "igboWord": "Munachi",
+    "nsibidi": "花畝魂",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["I am with God; Me and God;"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Munachimso", "Munachino"]
+  },
+  {
+    "id": "random120",
+    "igboWord": "Munachimso",
+    "nsibidi": "花畝魂花駅",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["I am walking with my God."],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Munachi", "Munachino"]
+  },
+  {
+    "id": "random121",
+    "igboWord": "Munachino",
+    "nsibidi": "花畝魂帰",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["I am with God."],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Munachi", "Munachimso"]
+  },
+  {
+    "id": "random122",
+    "igboWord": "Àdaọ̀rà",
+    "nsibidi": "割院",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["the people's lady; the people's daughter"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Ada", "Adaeze"]
+  },
+  {
+    "id": "random123",
+    "igboWord": "Ifeọma",
+    "nsibidi": "欠寊肢",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["good/beautiful/fine thing; something good;"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Iheoma", "Oma"]
+  },
+  {
+    "id": "random124",
+    "igboWord": "Iheọma",
+    "nsibidi": "欠寊肢",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["good/beautiful/fine thing; something good;"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Ifeoma", "Oma"]
+  },
+  {
+    "id": "random125",
+    "igboWord": "Chinazo",
+    "nsibidi": "欠寊肢",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God saves;"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Chinaza", "Naza"]
+  },
+  {
+    "id": "random126",
+    "igboWord": "ikechukwu",
+    "nsibidi": "果穏魂大",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["power of God; God's Strength"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Ikenna", "ike"]
+  },
+  {
+    "id": "random127",
+    "igboWord": "Chikamso",
+    "nsibidi": "魂界花駅",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["I am following God"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Munachimso", "chi"]
+  },
+  {
+    "id": "random128",
+    "igboWord": "Ujunwa",
+    "nsibidi": "寇埋子",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["the child is bountiful; bountiful/abundant child"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Obianuju", "Uju"]
+  },
+  {
+    "id": "random129",
+    "igboWord": "Uju",
+    "nsibidi": "寇埋",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["bountiful/abundant"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Obianuju", "Ujunwa"]
+  },
+  {
+    "id": "random130",
+    "igboWord": "Obianuju",
+    "nsibidi": "Ò宇営寇埋",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["One who came into abundance"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Uju", "Ujunwa"]
+  },
+  {
+    "id": "random131",
+    "igboWord": "Obianujunwa",
+    "nsibidi": "Ò宇営寇埋子",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["Child who came into abundance"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Uju", "Ujunwa", "Obianuju"]
+  },
+  {
+    "id": "random132",
+    "igboWord": "Oziomachukwu",
+    "nsibidi": "託寊肢魂大",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["Gospel/Good news of god"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Ozioma", "Chukwu"]
+  },
+  {
+    "id": "random133",
+    "igboWord": "Oziomachi",
+    "nsibidi": "託寊肢魂",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["Gospel/Good news of god"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Ozioma", "Chukwu"]
+  },
+  {
+    "id": "random134",
+    "igboWord": "Ozioma",
+    "nsibidi": "託寊肢",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["Good news; Gospel"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Oziomachi"]
+  },
+  {
+    "id": "random135",
+    "igboWord": "Chisimdi",
+    "nsibidi": "魂華花剁",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God says I shall live"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["chi"]
+  },
+  {
+    "id": "random136",
+    "igboWord": "Ebuka",
+    "nsibidi": "é看環",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["He is greater"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Chukwuebuka"]
+  },
+  {
+    "id": "random137",
+    "igboWord": "Chukwuebuka",
+    "nsibidi": "魂大é看環",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["god is great"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Chukwu", "ebuka"]
+  },
+  {
+    "id": "random138",
+    "igboWord": "Chimezie",
+    "nsibidi": "魂壊栄è",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["let God do it"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["mezie", "chi"]
+  },
+  {
+    "id": "random139",
+    "igboWord": "mezie",
+    "nsibidi": "壊栄è",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["do it"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["chimezie"]
+  },
+  {
+    "id": "random140",
+    "igboWord": "Adaugo",
+    "nsibidi": "割古",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["daughter of an eagle"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["ugo", "adaeze"]
+  },
+  {
+    "id": "random141",
+    "igboWord": "Chinaza",
+    "nsibidi": "魂寊公",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God answers"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Chinazo", "Chinaza-ekpere"]
+  },
+  {
+    "id": "random142",
+    "igboWord": "Chinazaekpere",
+    "nsibidi": "魂寊公寉則r寈",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God answers prayers"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Chinazo", "Chinaza"]
+  },
+  {
+    "id": "random143",
+    "igboWord": "ifedinma",
+    "nsibidi": "欠延寐煙",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["Things are good; something good; good thing."],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Chidinma", "mmasi"]
+  },
+  {
+    "id": "random144",
+    "igboWord": "Chidinma",
+    "nsibidi": "魂延寐煙",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God is good"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["chi", "mma", "ugomma"]
+  },
+  {
+    "id": "random145",
+    "igboWord": "Kambili",
+    "nsibidi": "界花剁li",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["let me live"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["chisimdi"]
+  },
+  {
+    "id": "random146",
+    "igboWord": "Chizoba",
+    "nsibidi": "魂窟艶bà",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God protects/saves"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Chinazo"]
+  },
+  {
+    "id": "random147",
+    "igboWord": "ifunaya",
+    "nsibidi": "愛",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["Love"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["ịhụ̀naanya"]
+  },
+  {
+    "id": "random148",
+    "igboWord": "ịhụ̀nanya",
+    "nsibidi": "愛",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["Love"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["ifunaya"]
+  },
+  {
+    "id": "random149",
+    "igboWord": "Adanne",
+    "nsibidi": "割温",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["her mother's daughter"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["adanna", "adaeze"]
+  },
+  {
+    "id": "random150",
+    "igboWord": "Chigozie",
+    "nsibidi": "魂岳向e",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["god bless"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["gozie", "ngozi"]
+  },
+  {
+    "id": "random151",
+    "igboWord": "Chibundu",
+    "nsibidi": "魂郷艶",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["god is live"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["chibuzo", "chibueze"]
+  },
+  {
+    "id": "random152",
+    "igboWord": "ndu",
+    "nsibidi": "艶環",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["life is greater"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["chibundu", "ndu"]
+  },
+  {
+    "id": "random153",
+    "igboWord": "Odinaka",
+    "nsibidi": "Ò延営稼",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["It is in (God’s) hands"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["odinakachukwu"]
+  },
+  {
+    "id": "random154",
+    "igboWord": "Odinakachukwu",
+    "nsibidi": "Ò延営稼魂大",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["It is in God’s hands"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["odinaka"]
+  },
+  {
+    "id": "random155",
+    "igboWord": "Chisom",
+    "nsibidi": "魂駅花",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God follows me"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Chikamso"]
+  },
+  {
+    "id": "random156",
+    "igboWord": "Onyemaechi",
+    "nsibidi": "衣丸患",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["who knows tomorrow?"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["echi", "Amaechi"]
+  },
+  {
+    "id": "random157",
+    "igboWord": "Ijeoma",
+    "nsibidi": "為寊肢",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["Good journey"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Nneoma", "ozioma"]
+  },
+  {
+    "id": "random158",
+    "igboWord": "Ginikachukwu",
+    "nsibidi": "¿滑?環魂大",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["What is greater than God Almighty"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Onyedikachukwu", "Ginika"]
+  },
+  {
+    "id": "random159",
+    "igboWord": "Ginikachi",
+    "nsibidi": "¿滑?環魂",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["What is greater than God"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Onyedikachi", "Ginikachukwu"]
+  },
+  {
+    "id": "random160",
+    "igboWord": "Onyekaba",
+    "nsibidi": "衣環真",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["Who is wealthier?"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Onyedikachi", "Ginikachukwu"]
+  },
+  {
+    "id": "random161",
+    "igboWord": "Chizaram",
+    "nsibidi": "魂公鮮花",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God answered me"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Cheta", "chinaza"]
+  },
+  {
+    "id": "random162",
+    "igboWord": "Cheta",
+    "nsibidi": "崖怠",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["to recall to the mind by an act or effort of memory; remember"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Chetachi", "chinaza"]
+  },
+  {
+    "id": "random163",
+    "igboWord": "Ezinne",
+    "nsibidi": "功温",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["Good mother"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Nneoma", "nneka"]
+  },
+  {
+    "id": "random164",
+    "igboWord": "Chetachi",
+    "nsibidi": "崖怠魂",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["Remember God"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Cheta", "chi"]
+  },
+  {
+    "id": "random165",
+    "igboWord": "Chetachukwu",
+    "nsibidi": "崖怠魂大",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["Remember God"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Cheta", "chetachi"]
+  },
+  {
+    "id": "random166",
+    "igboWord": "Obioma",
+    "nsibidi": "心寊肢",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["Good heart"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Obinna", "Obi"]
+  },
+  {
+    "id": "random167",
+    "igboWord": "uzoamaka",
+    "nsibidi": "畏寀煙環",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["The road is good and clear"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["amaka", "uzomma"]
+  },
+  {
+    "id": "random168",
+    "igboWord": "Chinecherem",
+    "nsibidi": "魂崖re征",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God thinks for me (God takes care of my worries)"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["chineche"]
+  },
+  {
+    "id": "random169",
+    "igboWord": "Chinèechèrēm",
+    "nsibidi": "魂崖re征",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God thinks for me (God takes care of my worries)"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["chineche"]
+  },
+  {
+    "id": "random170",
+    "igboWord": "Somtochukwu",
+    "nsibidi": "駅花石魂大",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["Join me in praising God"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["somto"]
+  },
+  {
+    "id": "random171",
+    "igboWord": "Somtochi",
+    "nsibidi": "駅花石魂",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["Join me in praising God"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["somto"]
+  },
+  {
+    "id": "random172",
+    "igboWord": "Somto",
+    "nsibidi": "駅花石",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["Join me in praises"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["somtochi"]
+  },
+  {
+    "id": "random173",
+    "igboWord": "Njideka",
+    "nsibidi": "Ǹ議豪環",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["holding onto the greatest; what I hold is greater."],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["jide"]
+  },
+  {
+    "id": "random174",
+    "igboWord": "jide",
+    "nsibidi": "N議豪",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["grasp; hold on to."],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["njideka"]
+  },
+  {
+    "id": "random175",
+    "igboWord": "Oluomachi",
+    "nsibidi": "奥寊肢魂",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God’s work is beautiful"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["oluchi"]
+  },
+  {
+    "id": "random176",
+    "igboWord": "Oluomachukwu",
+    "nsibidi": "奥寊肢魂大",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God’s work is beautiful"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["oluchi"]
+  },
+  {
+    "id": "random177",
+    "igboWord": "Oluoma",
+    "nsibidi": "奥寊肢",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["beautiful work"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["oluomachi"]
+  },
+  {
+    "id": "random178",
+    "igboWord": "Chinaemerem",
+    "nsibidi": "魂欠寊ę壊rè花",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God is doing things for me; God acts on my behalf."],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["emerem"]
+  },
+  {
+    "id": "random179",
+    "igboWord": "emerem",
+    "nsibidi": "ę壊rè花",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["did for me; has done it for me"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["chinaemerem"]
+  },
+  {
+    "id": "random180",
+    "igboWord": "daberechi",
+    "nsibidi": "員緻魂",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["lean on God"],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["dabere"]
+  },
+  {
+    "id": "random181",
+    "igboWord": "dabere",
+    "nsibidi": "員緻",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["lean on; lean upon."],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["daberechi"]
+  },
+  {
+    "id": "random182",
+    "igboWord": "daberechukwu",
+    "nsibidi": "員緻魂大",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["lean on God Almighty."],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["daberechi"]
+  },
+  {
+    "id": "random183",
+    "igboWord": "Sochima",
+    "nsibidi": "剰魂丸",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["Only God knows."],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["chima", "sochi"]
+  },
+  {
+    "id": "random184",
+    "igboWord": "Sochi",
+    "nsibidi": "剰魂",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["Only God."],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["chima", "sochima"]
   }
 ]
