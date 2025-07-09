@@ -1802,5 +1802,73 @@
     "attributes": null,
     "tags": ["name"],
     "relatedTerms": ["anyi", "Eze"]
+  },
+  {
+    "id": "random107",
+    "igboWord": "Chukwuziterem",
+    "nsibidi": "魂大送téré花",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God Almighty has sent me."],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Chizitere", "Chukwu"]
+  },
+  {
+    "id": "random108",
+    "igboWord": "Chiziterem",
+    "nsibidi": "魂送téré花",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God has sent me."],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Chizitere", "Chukwu"]
+  },
+  {
+    "id": "random109",
+    "igboWord": "Chizitere",
+    "nsibidi": "魂送téré",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God has sent."],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Chiziterem", "Chukwu"]
+  },
+  {
+    "id": "random110",
+    "igboWord": "Chukwuzitere",
+    "nsibidi": "魂大送téré",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God Almighty has sent."],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["Chizitere", "Chukwu"]
   }
 ]
