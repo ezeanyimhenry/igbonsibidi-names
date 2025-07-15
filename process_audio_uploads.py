@@ -1,13 +1,15 @@
+# process_audio_uploads.py
 import json
 import os
 import re
 import requests
 from slugify import slugify
+from copy import deepcopy
 
-GITHUB_REPO = "ezeanyimhenry/igbonsibidi-names"
+GITHUB_REPO = "yourusername/yourrepo"
 GH_TOKEN = os.environ.get("GH_TOKEN")
 AUDIO_DIR = "assets/audio"
-JSON_FILE = "dictionary.json"
+JSON_FILE = "your_data.json"
 
 os.makedirs(AUDIO_DIR, exist_ok=True)
 
@@ -16,9 +18,10 @@ headers = {
     "Accept": "application/vnd.github+json"
 }
 
-# Load existing data
+# Load and snapshot original data
 with open(JSON_FILE, "r", encoding="utf-8") as f:
     data = json.load(f)
+original_data = deepcopy(data)
 
 # Get closed issues with 'audio-needed' label
 issues_url = f"https://api.github.com/repos/{GITHUB_REPO}/issues?state=closed&labels=audio-needed&per_page=100"
@@ -67,7 +70,10 @@ for issue in issues:
     else:
         print(f"❌ Failed to download audio for {word}")
 
-# Save updated JSON
-with open(JSON_FILE, "w", encoding="utf-8") as f:
-    json.dump(data, f, ensure_ascii=False, indent=2)
+# Only save if something changed
+if data != original_data:
+    with open(JSON_FILE, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
     print(f"✅ JSON updated with new audio URLs.")
+else:
+    print("ℹ️ No updates were made to JSON.")
