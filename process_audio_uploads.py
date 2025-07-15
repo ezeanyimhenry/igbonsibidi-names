@@ -1,4 +1,3 @@
-# process_audio_uploads.py
 import json
 import os
 import re
