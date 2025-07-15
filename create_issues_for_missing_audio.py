@@ -17,18 +17,23 @@ graphql_headers = {
 }
 
 def search_existing_issues(igbo_word):
-    """Returns all matching open issues for a given igbo_word"""
+    """Searches for existing issues with this word."""
     query = f'repo:{GITHUB_REPO} is:issue in:title "{igbo_word}"'
-    search_url = f"https://api.github.com/search/issues?q={requests.utils.quote(query)}"
-    resp = requests.get(search_url, headers=headers)
-    if resp.status_code == 200:
-        return resp.json().get("items", [])
-    else:
-        print(f"❌ Failed to search for issues: {resp.status_code} - {resp.text}")
-        return []
+    url = f"https://api.github.com/search/issues?q={requests.utils.quote(query)}"
+    
+    resp = requests.get(url, headers=headers)
+
+    if resp.status_code == 403 and "rate limit" in resp.text.lower():
+        print("⚠️ Rate limit hit during search. Skipping search for now.")
+        return None
+    elif resp.status_code != 200:
+        print(f"❌ Failed to search issues: {resp.status_code} - {resp.text}")
+        return None
+
+    return resp.json().get("items", [])
 
 def delete_issue(issue_node_id):
-    """Delete a GitHub issue using GraphQL"""
+    """Delete an issue using GraphQL."""
     query = """
     mutation DeleteIssue($id:ID!) {
       deleteIssue(input:{issueId:$id}) {
@@ -42,9 +47,9 @@ def delete_issue(issue_node_id):
         headers=graphql_headers
     )
     if resp.status_code == 200:
-        print(f"🗑️  Deleted duplicate issue")
+        print(f"🗑️ Deleted duplicate issue.")
     else:
-        print(f"❌ Failed to delete issue: {resp.status_code} - {resp.text}")
+        print(f"❌ Could not delete issue: {resp.status_code} - {resp.text}")
 
 def create_issue(entry):
     title = f"Add Audio for: {entry['igboWord']}"
@@ -58,43 +63,45 @@ def create_issue(entry):
 Once approved, it will be added to the repository and linked in the dataset.
 """
     issue_url = f"https://api.github.com/repos/{GITHUB_REPO}/issues"
-    issue_data = {"title": title, "body": body, "labels": ["audio-needed"]}
-    r = requests.post(issue_url, json=issue_data, headers=headers)
+    payload = {"title": title, "body": body, "labels": ["audio-needed"]}
 
-    if r.status_code == 201:
-        print(f"✅ Issue created for {entry['igboWord']}")
-    elif r.status_code == 403 and "rate limit" in r.text.lower():
-        print("⚠️ Rate limited. Sleeping for 60 seconds...")
-        time.sleep(60)
-        create_issue(entry)
+    resp = requests.post(issue_url, json=payload, headers=headers)
+
+    if resp.status_code == 201:
+        print(f"✅ Created issue for {entry['igboWord']}")
+    elif resp.status_code == 403 and "rate limit" in resp.text.lower():
+        print("⏳ Rate limit hit during issue creation. Skipping...")
     else:
-        print(f"❌ Failed to create issue for {entry['igboWord']}: {r.status_code} - {r.text}")
+        print(f"❌ Failed to create issue: {resp.status_code} - {resp.text}")
 
 # === MAIN SCRIPT ===
 with open(JSON_FILE, "r", encoding="utf-8") as f:
-    data = json.load(f)
+    entries = json.load(f)
 
-for entry in data:
+for entry in entries:
     if entry.get("audioUrl"):
         continue
 
     igbo_word = entry["igboWord"]
+
     existing_issues = search_existing_issues(igbo_word)
 
-    # Remove duplicates, keep the earliest
+    if existing_issues is None:
+        print(f"⏩ Skipping {igbo_word} due to search failure or rate limit.")
+        continue
+
     if len(existing_issues) > 1:
-        # Sort by creation date
-        existing_issues.sort(key=lambda x: x["created_at"])
-        to_delete = existing_issues[1:]  # All but the first
-
-        for issue in to_delete:
-            # Fetch node_id to delete via GraphQL
-            issue_detail = requests.get(issue["url"], headers=headers).json()
-            node_id = issue_detail.get("node_id")
-            if node_id:
-                delete_issue(node_id)
+        # Sort and remove all but the earliest
+        existing_issues.sort(key=lambda i: i["created_at"])
+        for duplicate in existing_issues[1:]:
+            detail = requests.get(duplicate["url"], headers=headers)
+            if detail.status_code == 200 and detail.json().get("node_id"):
+                delete_issue(detail.json()["node_id"])
             else:
-                print(f"⚠️ Could not find node_id for issue: {issue['html_url']}")
+                print(f"⚠️ Failed to fetch/delete: {duplicate['url']}")
 
-    if not existing_issues:
-        create_issue(entry)
+    if existing_issues:
+        print(f"🔁 Issue already exists for {igbo_word}. Skipping.")
+        continue
+
+    create_issue(entry)
