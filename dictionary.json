@@ -3128,5 +3128,107 @@
     "attributes": null,
     "tags": ["name"],
     "relatedTerms": ["chima", "sochima"]
+  },
+  {
+    "id": "random185",
+    "igboWord": "Chinenye",
+    "nsibidi": "魂寊ę角",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God gives; God has given."],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["chinenyenwa"]
+  },
+  {
+    "id": "random186",
+    "igboWord": "Chinenyenwa",
+    "nsibidi": "魂寊ę角子",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God gives child; God has given child."],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["chinenye"]
+  },
+  {
+    "id": "random187",
+    "igboWord": "Chinonye",
+    "nsibidi": "魂帰nyè",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God is with me; God stays with me."],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["chinenye", "nonye"]
+  },
+  {
+    "id": "random188",
+    "igboWord": "nonye",
+    "nsibidi": "帰nyè",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["Be with (someone); Stay with (someone)."],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["chinenye", "chinonye"]
+  },
+  {
+    "id": "random189",
+    "igboWord": "nonyerem",
+    "nsibidi": "帰nyèrè花",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["(He/She) stays with me; Is with me."],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["chinenye", "chinonye"]
+  },
+  {
+    "id": "random190",
+    "igboWord": "chinonyerem",
+    "nsibidi": "魂帰nyèrè花",
+    "definitions": [
+      {
+        "wordClass": null,
+        "definitions": ["God is with me; God stays with me."],
+        "nsibidi": null
+      }
+    ],
+    "audioUrl": null,
+    "tenses": null,
+    "attributes": null,
+    "tags": ["name"],
+    "relatedTerms": ["chinenye", "chinonye"]
   }
 ]
