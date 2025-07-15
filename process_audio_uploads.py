@@ -5,10 +5,10 @@ import requests
 from slugify import slugify
 from copy import deepcopy
 
-GITHUB_REPO = "yourusername/yourrepo"
+GITHUB_REPO = "ezeanyimhenry/igbonsibidi-names"
 GH_TOKEN = os.environ.get("GH_TOKEN")
 AUDIO_DIR = "assets/audio"
-JSON_FILE = "your_data.json"
+JSON_FILE = "dictionary.json"
 
 os.makedirs(AUDIO_DIR, exist_ok=True)
 
