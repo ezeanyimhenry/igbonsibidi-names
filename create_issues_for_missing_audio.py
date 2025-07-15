@@ -58,7 +58,7 @@ def create_issue(entry):
 **Igbo Word**: `{entry['igboWord']}`  
 **Definition**: {entry['definitions'][0]['definitions'][0] if entry.get('definitions') else 'N/A'}
 
-📢 Please upload an `.mp3` file as a comment below by dragging and dropping it.
+📢 Please upload an `.mp3` file for this word using a public service like **Google Drive**, **Dropbox**, or **Vocaroo**, then paste the link below in a comment.
 
 Once approved, it will be added to the repository and linked in the dataset.
 """
