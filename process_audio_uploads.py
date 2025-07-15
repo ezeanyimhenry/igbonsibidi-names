@@ -5,13 +5,11 @@ import requests
 from slugify import slugify
 from copy import deepcopy
 
-# === CONFIGURATION ===
 GITHUB_REPO = "ezeanyimhenry/igbonsibidi-names"
 GH_TOKEN = os.environ.get("GH_TOKEN")
 AUDIO_DIR = "assets/audio"
 JSON_FILE = "dictionary.json"
 
-# === SETUP ===
 os.makedirs(AUDIO_DIR, exist_ok=True)
 
 headers = {
@@ -19,17 +17,25 @@ headers = {
     "Accept": "application/vnd.github+json"
 }
 
-# === LOAD DATA ===
+# Convert Google Drive "view" link to downloadable link
+def convert_google_drive_url(url):
+    match = re.search(r"drive\.google\.com/file/d/([^/]+)", url)
+    if match:
+        file_id = match.group(1)
+        return f"https://drive.google.com/uc?export=download&id={file_id}"
+    return url  # return original if not a Drive link
+
+# Load and snapshot original data
 with open(JSON_FILE, "r", encoding="utf-8") as f:
     data = json.load(f)
 original_data = deepcopy(data)
 
-# === FETCH CLOSED ISSUES WITH AUDIO NEEDED ===
+# Get closed issues with 'audio-needed' label
 issues_url = f"https://api.github.com/repos/{GITHUB_REPO}/issues?state=closed&labels=audio-needed&per_page=100"
 issues = requests.get(issues_url, headers=headers).json()
 
 for issue in issues:
-    title = issue.get('title', '')
+    title = issue['title']
     if "Add Audio for:" not in title:
         continue
 
@@ -39,18 +45,19 @@ for issue in issues:
     if not found_entry:
         continue
 
-    # === FIND LINKS IN COMMENTS ===
+    # Get comments to find audio
     comments_url = issue['comments_url']
     comments = requests.get(comments_url, headers=headers).json()
     audio_url = None
 
     for comment in comments:
         body = comment.get("body", "")
-        urls = re.findall(r"https?://[^\s\)\"]+", body)
+        raw_urls = re.findall(r"https?://[^\s\)\"]+", body)
+        urls = [convert_google_drive_url(u) for u in raw_urls]
+
         for url in urls:
             try:
-                # Try downloading the file
-                r = requests.get(url, allow_redirects=True, timeout=10)
+                r = requests.get(url, allow_redirects=True, timeout=15)
                 content_type = r.headers.get("Content-Type", "").lower()
 
                 if r.status_code == 200 and content_type.startswith("audio"):
@@ -72,7 +79,7 @@ for issue in issues:
     if not audio_url:
         print(f"⚠️ No valid audio found in issue #{issue['number']} for '{word}'")
 
-# === SAVE IF ANYTHING CHANGED ===
+# Only save if something changed
 if data != original_data:
     with open(JSON_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
