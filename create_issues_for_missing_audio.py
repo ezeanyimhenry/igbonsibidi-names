@@ -1,30 +1,36 @@
 import json
 import requests
 import os
-import time
+from time import sleep
 
 GITHUB_REPO = "ezeanyimhenry/igbonsibidi-names"
 GH_TOKEN = os.environ.get("GH_TOKEN")
 JSON_FILE = "dictionary.json"
+TRACKED_FILE = ".issued_words.json"
 
 headers = {
     "Authorization": f"token {GH_TOKEN}",
     "Accept": "application/vnd.github+json"
 }
 
-graphql_headers = {
-    "Authorization": f"bearer {GH_TOKEN}"
-}
+def load_issued_words():
+    if os.path.exists(TRACKED_FILE):
+        with open(TRACKED_FILE, "r", encoding="utf-8") as f:
+            return set(json.load(f))
+    return set()
 
-def search_existing_issues(igbo_word):
-    """Searches for existing issues with this word."""
-    query = f'repo:{GITHUB_REPO} is:issue in:title "{igbo_word}"'
+def save_issued_words(words):
+    with open(TRACKED_FILE, "w", encoding="utf-8") as f:
+        json.dump(sorted(list(words)), f, indent=2)
+
+def search_existing_issues(word):
+    """Find issues for a word with 'audio-needed' label."""
+    query = f'repo:{GITHUB_REPO} is:issue in:title "{word}" label:audio-needed'
     url = f"https://api.github.com/search/issues?q={requests.utils.quote(query)}"
-    
-    resp = requests.get(url, headers=headers)
 
+    resp = requests.get(url, headers=headers)
     if resp.status_code == 403 and "rate limit" in resp.text.lower():
-        print("⚠️ Rate limit hit during search. Skipping search for now.")
+        print("⚠️ Rate limit hit during search. Skipping...")
         return None
     elif resp.status_code != 200:
         print(f"❌ Failed to search issues: {resp.status_code} - {resp.text}")
@@ -32,76 +38,92 @@ def search_existing_issues(igbo_word):
 
     return resp.json().get("items", [])
 
-def delete_issue(issue_node_id):
-    """Delete an issue using GraphQL."""
-    query = """
-    mutation DeleteIssue($id:ID!) {
-      deleteIssue(input:{issueId:$id}) {
-        clientMutationId
-      }
+def close_duplicate(issue_number, original_number):
+    comment_url = f"https://api.github.com/repos/{GITHUB_REPO}/issues/{issue_number}/comments"
+    close_url = f"https://api.github.com/repos/{GITHUB_REPO}/issues/{issue_number}"
+
+    comment = {
+        "body": f"This issue is a duplicate of #{original_number}. Closing it."
     }
-    """
-    resp = requests.post(
-        "https://api.github.com/graphql",
-        json={"query": query, "variables": {"id": issue_node_id}},
-        headers=graphql_headers
-    )
+    requests.post(comment_url, headers=headers, json=comment)
+
+    payload = {"state": "closed"}
+    resp = requests.patch(close_url, headers=headers, json=payload)
+
     if resp.status_code == 200:
-        print(f"🗑️ Deleted duplicate issue.")
+        print(f"🗂️ Closed duplicate issue #{issue_number}")
     else:
-        print(f"❌ Could not delete issue: {resp.status_code} - {resp.text}")
+        print(f"❌ Failed to close issue #{issue_number}: {resp.status_code}")
 
 def create_issue(entry):
     title = f"Add Audio for: {entry['igboWord']}"
+    definition = entry['definitions'][0]['definitions'][0] if entry.get("definitions") else "N/A"
+
     body = f"""### 🗣 Audio Needed
 
 **Igbo Word**: `{entry['igboWord']}`  
-**Definition**: {entry['definitions'][0]['definitions'][0] if entry.get('definitions') else 'N/A'}
+**Definition**: {definition}
 
 📢 Please upload an `.mp3` file for this word using a public service like **Google Drive**, **Dropbox**, or **Vocaroo**, then paste the link below in a comment.
 
 Once approved, it will be added to the repository and linked in the dataset.
 """
-    issue_url = f"https://api.github.com/repos/{GITHUB_REPO}/issues"
-    payload = {"title": title, "body": body, "labels": ["audio-needed"]}
+    payload = {
+        "title": title,
+        "body": body,
+        "labels": ["audio-needed"]
+    }
 
-    resp = requests.post(issue_url, json=payload, headers=headers)
+    issue_url = f"https://api.github.com/repos/{GITHUB_REPO}/issues"
+    resp = requests.post(issue_url, headers=headers, json=payload)
 
     if resp.status_code == 201:
         print(f"✅ Created issue for {entry['igboWord']}")
+        return True
     elif resp.status_code == 403 and "rate limit" in resp.text.lower():
-        print("⏳ Rate limit hit during issue creation. Skipping...")
+        print("⏳ Rate limit hit during creation. Aborting...")
+        return "rate-limit"
     else:
         print(f"❌ Failed to create issue: {resp.status_code} - {resp.text}")
+        return False
 
-# === MAIN SCRIPT ===
+# === MAIN ===
 with open(JSON_FILE, "r", encoding="utf-8") as f:
-    entries = json.load(f)
+    data = json.load(f)
 
-for entry in entries:
-    if entry.get("audioUrl"):
+issued_words = load_issued_words()
+
+for entry in data:
+    word = entry["igboWord"]
+
+    if entry.get("audioUrl") or word in issued_words:
         continue
 
-    igbo_word = entry["igboWord"]
+    issues = search_existing_issues(word)
 
-    existing_issues = search_existing_issues(igbo_word)
-
-    if existing_issues is None:
-        print(f"⏩ Skipping {igbo_word} due to search failure or rate limit.")
+    if issues is None:
+        print(f"⏩ Skipping '{word}' due to rate limit or error.")
         continue
 
-    if len(existing_issues) > 1:
-        # Sort and remove all but the earliest
-        existing_issues.sort(key=lambda i: i["created_at"])
-        for duplicate in existing_issues[1:]:
-            detail = requests.get(duplicate["url"], headers=headers)
-            if detail.status_code == 200 and detail.json().get("node_id"):
-                delete_issue(detail.json()["node_id"])
-            else:
-                print(f"⚠️ Failed to fetch/delete: {duplicate['url']}")
+    if len(issues) > 1:
+        issues.sort(key=lambda i: i["created_at"])
+        original = issues[0]["number"]
+        for dup in issues[1:]:
+            close_duplicate(dup["number"], original)
+        print(f"🔁 Retained issue #{original} for '{word}'")
 
-    if existing_issues:
-        print(f"🔁 Issue already exists for {igbo_word}. Skipping.")
+    if issues:
+        print(f"📝 Issue already exists for '{word}'")
+        issued_words.add(word)
         continue
 
-    create_issue(entry)
+    result = create_issue(entry)
+    if result == "rate-limit":
+        break
+    elif result:
+        issued_words.add(word)
+
+    sleep(1)  # gentle pacing
+
+save_issued_words(issued_words)
+print("✅ Done creating audio-needed issues.")
