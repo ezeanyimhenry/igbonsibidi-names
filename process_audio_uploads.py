@@ -41,7 +41,7 @@ for issue in issues:
 
     word = title.split("Add Audio for:")[1].strip()
     slug = slugify(word)
-    found_entry = next((item for item in data if item["igboWord"] == word and not item.get("audioUrl")), None)
+    found_entry = next((item for item in data if item["igboWord"] == word and not item.get("pronunciation")), None)
     if not found_entry:
         continue
 
@@ -69,7 +69,7 @@ for issue in issues:
 
                     # Update the dataset
                     github_raw_url = f"https://raw.githubusercontent.com/{GITHUB_REPO}/main/{AUDIO_DIR}/{slug}.mp3"
-                    found_entry["audioUrl"] = github_raw_url
+                    found_entry["pronunciation"] = github_raw_url
                     break
             except Exception as e:
                 print(f"⚠️ Failed to download from {url}: {e}")
