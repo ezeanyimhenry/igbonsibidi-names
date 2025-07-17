@@ -6,15 +6,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God is nearby"],
+        "definitions": [
+          "God is nearby"
+        ],
         "nsibidi": null
       }
     ],
-    "audioUrl": null,
+    "audioUrl": "https://raw.githubusercontent.com/ezeanyimhenry/igbonsibidi-names/main/assets/audio/chinonso.mp3",
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Chukwu", "Onye"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Chukwu",
+      "Onye"
+    ]
   },
   {
     "id": "random2",
@@ -23,15 +30,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["Father's heart"],
+        "definitions": [
+          "Father's heart"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Nna", "Obi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Nna",
+      "Obi"
+    ]
   },
   {
     "id": "random3",
@@ -40,15 +54,23 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["daughter of a king", "princess"],
+        "definitions": [
+          "daughter of a king",
+          "princess"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Ada", "Eze"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Ada",
+      "Eze"
+    ]
   },
   {
     "id": "random4",
@@ -57,15 +79,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God Almighty"],
+        "definitions": [
+          "God Almighty"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Chi", "Ukwu"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Chi",
+      "Ukwu"
+    ]
   },
   {
     "id": "random5",
@@ -74,7 +103,9 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["Thought, will"],
+        "definitions": [
+          "Thought, will"
+        ],
         "nsibidi": null
       }
     ],
@@ -82,7 +113,10 @@
     "tenses": null,
     "attributes": null,
     "tags": [],
-    "relatedTerms": ["Obi", "Mmụọ"]
+    "relatedTerms": [
+      "Obi",
+      "Mmụọ"
+    ]
   },
   {
     "id": "random6",
@@ -91,7 +125,9 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["Mine"],
+        "definitions": [
+          "Mine"
+        ],
         "nsibidi": null
       }
     ],
@@ -99,7 +135,10 @@
     "tenses": null,
     "attributes": null,
     "tags": [],
-    "relatedTerms": ["Nke", "Mu"]
+    "relatedTerms": [
+      "Nke",
+      "Mu"
+    ]
   },
   {
     "id": "random7",
@@ -118,7 +157,9 @@
     "tenses": null,
     "attributes": null,
     "tags": [],
-    "relatedTerms": ["Oriaku"]
+    "relatedTerms": [
+      "Oriaku"
+    ]
   },
   {
     "id": "random8",
@@ -127,7 +168,9 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["Thank God"],
+        "definitions": [
+          "Thank God"
+        ],
         "nsibidi": null
       }
     ],
@@ -135,7 +178,10 @@
     "tenses": null,
     "attributes": null,
     "tags": [],
-    "relatedTerms": ["Kele", "Chi"]
+    "relatedTerms": [
+      "Kele",
+      "Chi"
+    ]
   },
   {
     "id": "random9",
@@ -144,15 +190,23 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["daughter of her father", "father's daughter"],
+        "definitions": [
+          "daughter of her father",
+          "father's daughter"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Ada", "Nna"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Ada",
+      "Nna"
+    ]
   },
   {
     "id": "random10",
@@ -161,15 +215,23 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["her father's (first) daughter"],
+        "definitions": [
+          "her father's (first) daughter"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Ada", "Nna", "ya"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Ada",
+      "Nna",
+      "ya"
+    ]
   },
   {
     "id": "random11",
@@ -178,15 +240,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["hand of God; God's hand"],
+        "definitions": [
+          "hand of God; God's hand"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Aka", "Chi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Aka",
+      "Chi"
+    ]
   },
   {
     "id": "random12",
@@ -195,15 +264,23 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["hand of God Almighty; God Almighty's hand"],
+        "definitions": [
+          "hand of God Almighty; God Almighty's hand"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Aka", "Chukwu", "Chi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Aka",
+      "Chukwu",
+      "Chi"
+    ]
   },
   {
     "id": "random13",
@@ -212,15 +289,21 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["nobleman; aristocrat; free-born; freeman"],
+        "definitions": [
+          "nobleman; aristocrat; free-born; freeman"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Amadi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Amadi"
+    ]
   },
   {
     "id": "random14",
@@ -229,15 +312,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["reward or award for beauty; prize of love"],
+        "definitions": [
+          "reward or award for beauty; prize of love"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["mma", "Ugo"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "mma",
+      "Ugo"
+    ]
   },
   {
     "id": "random15",
@@ -246,15 +336,21 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["love"],
+        "definitions": [
+          "love"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["anya"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "anya"
+    ]
   },
   {
     "id": "random16",
@@ -263,15 +359,23 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["What belongs to God; God's own"],
+        "definitions": [
+          "What belongs to God; God's own"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Nkechineye", "Nkechukwu", "chi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Nkechineye",
+      "Nkechukwu",
+      "chi"
+    ]
   },
   {
     "id": "random17",
@@ -280,15 +384,23 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["What belongs to God; God's own"],
+        "definitions": [
+          "What belongs to God; God's own"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Nkechineye", "Nkechi", "chi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Nkechineye",
+      "Nkechi",
+      "chi"
+    ]
   },
   {
     "id": "random18",
@@ -297,15 +409,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["gift; present"],
+        "definitions": [
+          "gift; present"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Onyinyechukwu", "Onyinyechi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Onyinyechukwu",
+      "Onyinyechi"
+    ]
   },
   {
     "id": "random19",
@@ -314,15 +433,23 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["gift from God; God's gift"],
+        "definitions": [
+          "gift from God; God's gift"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Onyinye", "Onyinyechi", "chukwu"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Onyinye",
+      "Onyinyechi",
+      "chukwu"
+    ]
   },
   {
     "id": "random20",
@@ -331,15 +458,23 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["good luck; good fortune; favour"],
+        "definitions": [
+          "good luck; good fortune; favour"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Chioma", "Oma", "awele"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Chioma",
+      "Oma",
+      "awele"
+    ]
   },
   {
     "id": "random21",
@@ -348,15 +483,23 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["good God; luck; arriving and meeting with luck; encountering luck at arrival (e.g. meeting a friend at table on arrival at his house);"],
+        "definitions": [
+          "good God; luck; arriving and meeting with luck; encountering luck at arrival (e.g. meeting a friend at table on arrival at his house);"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["isiọma", "Oma", "awele"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "isiọma",
+      "Oma",
+      "awele"
+    ]
   },
   {
     "id": "random22",
@@ -365,15 +508,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God is so pleasant; God is awesome"],
+        "definitions": [
+          "God is so pleasant; God is awesome"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["āmākā", "chi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "āmākā",
+      "chi"
+    ]
   },
   {
     "id": "random23",
@@ -382,15 +532,21 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["pleasant; awesome"],
+        "definitions": [
+          "pleasant; awesome"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["chiāmākā"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "chiāmākā"
+    ]
   },
   {
     "id": "random24",
@@ -399,15 +555,21 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["motherhood is pleasant"],
+        "definitions": [
+          "motherhood is pleasant"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["chiāmākā"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "chiāmākā"
+    ]
   },
   {
     "id": "random25",
@@ -416,15 +578,23 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["grace of God; God's grace"],
+        "definitions": [
+          "grace of God; God's grace"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Chukwu", "Amara", "Amarachi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Chukwu",
+      "Amara",
+      "Amarachi"
+    ]
   },
   {
     "id": "random26",
@@ -433,15 +603,23 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["grace of God; God's grace"],
+        "definitions": [
+          "grace of God; God's grace"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Chi", "Amara", "Amarachukwu"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Chi",
+      "Amara",
+      "Amarachukwu"
+    ]
   },
   {
     "id": "random27",
@@ -450,15 +628,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["grace; free or unmerited favor"],
+        "definitions": [
+          "grace; free or unmerited favor"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Amarachukwu", "Amarachi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Amarachukwu",
+      "Amarachi"
+    ]
   },
   {
     "id": "random28",
@@ -467,15 +652,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["the past is my strength"],
+        "definitions": [
+          "the past is my strength"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["ike", "azu"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "ike",
+      "azu"
+    ]
   },
   {
     "id": "random29",
@@ -484,15 +676,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God is King"],
+        "definitions": [
+          "God is King"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["eze", "chi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "eze",
+      "chi"
+    ]
   },
   {
     "id": "random30",
@@ -501,15 +700,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God almighty is King"],
+        "definitions": [
+          "God almighty is King"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Chibueze", "eze"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Chibueze",
+      "eze"
+    ]
   },
   {
     "id": "random31",
@@ -518,15 +724,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God almighty is (my) strength"],
+        "definitions": [
+          "God almighty is (my) strength"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Chibuike", "ike"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Chibuike",
+      "ike"
+    ]
   },
   {
     "id": "random32",
@@ -535,15 +748,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God is (my) strength"],
+        "definitions": [
+          "God is (my) strength"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["ike", "chi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "ike",
+      "chi"
+    ]
   },
   {
     "id": "random33",
@@ -552,15 +772,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God is the way; God leads the way"],
+        "definitions": [
+          "God is the way; God leads the way"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Chi", "uzo"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Chi",
+      "uzo"
+    ]
   },
   {
     "id": "random34",
@@ -569,15 +796,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["mercy; sympathy"],
+        "definitions": [
+          "mercy; sympathy"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["eberechi", "amara"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "eberechi",
+      "amara"
+    ]
   },
   {
     "id": "random35",
@@ -586,15 +820,23 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["mercy; sympathy"],
+        "definitions": [
+          "mercy; sympathy"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["ebere", "chi", "amara"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "ebere",
+      "chi",
+      "amara"
+    ]
   },
   {
     "id": "random36",
@@ -603,15 +845,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["glory; aura"],
+        "definitions": [
+          "glory; aura"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["ebere", "amara"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "ebere",
+      "amara"
+    ]
   },
   {
     "id": "random37",
@@ -620,15 +869,23 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["ended in God’s glory"],
+        "definitions": [
+          "ended in God’s glory"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["oluebube", "ebube", "oru"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "oluebube",
+      "ebube",
+      "oru"
+    ]
   },
   {
     "id": "random38",
@@ -637,15 +894,23 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["Miraculous work of God"],
+        "definitions": [
+          "Miraculous work of God"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["oruebube", "ebube", "oru"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "oruebube",
+      "ebube",
+      "oru"
+    ]
   },
   {
     "id": "random39",
@@ -654,15 +919,23 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God is good"],
+        "definitions": [
+          "God is good"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["chi", "mma", "ugomma"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "chi",
+      "mma",
+      "ugomma"
+    ]
   },
   {
     "id": "random40",
@@ -671,15 +944,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God exists"],
+        "definitions": [
+          "God exists"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["chi", "chidimma"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "chi",
+      "chidimma"
+    ]
   },
   {
     "id": "random41",
@@ -688,15 +968,23 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God is merciful"],
+        "definitions": [
+          "God is merciful"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["chi", "ebere", "eberechi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "chi",
+      "ebere",
+      "eberechi"
+    ]
   },
   {
     "id": "random42",
@@ -705,15 +993,23 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God is glorious"],
+        "definitions": [
+          "God is glorious"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["chi", "ebube", "oluebube"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "chi",
+      "ebube",
+      "oluebube"
+    ]
   },
   {
     "id": "random43",
@@ -722,15 +1018,23 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God holds my life"],
+        "definitions": [
+          "God holds my life"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["chi", "chijindum", "ndu"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "chi",
+      "chijindum",
+      "ndu"
+    ]
   },
   {
     "id": "random44",
@@ -739,15 +1043,23 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God holds my life"],
+        "definitions": [
+          "God holds my life"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["chi", "chijindu", "ndu"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "chi",
+      "chijindu",
+      "ndu"
+    ]
   },
   {
     "id": "random45",
@@ -756,15 +1068,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God is greater"],
+        "definitions": [
+          "God is greater"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["chi", "chubuike"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "chi",
+      "chubuike"
+    ]
   },
   {
     "id": "random46",
@@ -773,15 +1092,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God is the greatest; God's power"],
+        "definitions": [
+          "God is the greatest; God's power"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["chika", "chubuike"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "chika",
+      "chubuike"
+    ]
   },
   {
     "id": "random47",
@@ -790,15 +1116,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God knows"],
+        "definitions": [
+          "God knows"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["chi", "chukwuma"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "chi",
+      "chukwuma"
+    ]
   },
   {
     "id": "random48",
@@ -807,15 +1140,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God Almighty knows"],
+        "definitions": [
+          "God Almighty knows"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["chukwu", "chima"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "chukwu",
+      "chima"
+    ]
   },
   {
     "id": "random49",
@@ -824,15 +1164,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["“what God owns; God's possession"],
+        "definitions": [
+          "“what God owns; God's possession"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["chi", "chinweike"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "chi",
+      "chinweike"
+    ]
   },
   {
     "id": "random50",
@@ -841,15 +1188,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God owns strength; Strength belongs to God"],
+        "definitions": [
+          "God owns strength; Strength belongs to God"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["chinwe", "chi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "chinwe",
+      "chi"
+    ]
   },
   {
     "id": "random51",
@@ -858,15 +1212,23 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God owns life; Life belongs to God"],
+        "definitions": [
+          "God owns life; Life belongs to God"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["chinwe", "chi", "ndu"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "chinwe",
+      "chi",
+      "ndu"
+    ]
   },
   {
     "id": "random52",
@@ -875,15 +1237,23 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God owns life; Life belongs to God"],
+        "definitions": [
+          "God owns life; Life belongs to God"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["chinwe", "chi", "ndu"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "chinwe",
+      "chi",
+      "ndu"
+    ]
   },
   {
     "id": "random53",
@@ -892,15 +1262,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God Almighty exists"],
+        "definitions": [
+          "God Almighty exists"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["chukwu", "chidi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "chukwu",
+      "chidi"
+    ]
   },
   {
     "id": "random54",
@@ -909,15 +1286,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God has done great things"],
+        "definitions": [
+          "God has done great things"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["chukwu", "emeka"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "chukwu",
+      "emeka"
+    ]
   },
   {
     "id": "random55",
@@ -926,15 +1310,21 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["has done well"],
+        "definitions": [
+          "has done well"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["chukwuemeka"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "chukwuemeka"
+    ]
   },
   {
     "id": "random56",
@@ -943,15 +1333,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["greeting; gratitude; thanks"],
+        "definitions": [
+          "greeting; gratitude; thanks"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["kelechi", "ekene"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "kelechi",
+      "ekene"
+    ]
   },
   {
     "id": "random57",
@@ -960,15 +1357,23 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["All thanks belong to God"],
+        "definitions": [
+          "All thanks belong to God"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["kelechi", "ekene", "ekele"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "kelechi",
+      "ekene",
+      "ekele"
+    ]
   },
   {
     "id": "random58",
@@ -977,15 +1382,23 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["he says, he does"],
+        "definitions": [
+          "he says, he does"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["kelechi", "ekene", "ekele"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "kelechi",
+      "ekene",
+      "ekele"
+    ]
   },
   {
     "id": "random59",
@@ -994,15 +1407,23 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["his father's friend"],
+        "definitions": [
+          "his father's friend"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["ikenna", "nna", "enyi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "ikenna",
+      "nna",
+      "enyi"
+    ]
   },
   {
     "id": "random60",
@@ -1011,15 +1432,23 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["father's power or strength or authority"],
+        "definitions": [
+          "father's power or strength or authority"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["ikechukwu", "nna", "ike"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "ikechukwu",
+      "nna",
+      "ike"
+    ]
   },
   {
     "id": "random61",
@@ -1028,15 +1457,23 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["Thank the Father"],
+        "definitions": [
+          "Thank the Father"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["ikenna", "nna", "kelechi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "ikenna",
+      "nna",
+      "kelechi"
+    ]
   },
   {
     "id": "random62",
@@ -1045,15 +1482,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["what God has given; A gift from God"],
+        "definitions": [
+          "what God has given; A gift from God"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Nkechi", "chineyere"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Nkechi",
+      "chineyere"
+    ]
   },
   {
     "id": "random63",
@@ -1062,15 +1506,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God has given; given by God"],
+        "definitions": [
+          "God has given; given by God"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Nkechi", "Nkechineyere"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Nkechi",
+      "Nkechineyere"
+    ]
   },
   {
     "id": "random64",
@@ -1079,15 +1530,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["the future is greater; what is to come is better"],
+        "definitions": [
+          "the future is greater; what is to come is better"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Nkihu", "Nkiruka"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Nkihu",
+      "Nkiruka"
+    ]
   },
   {
     "id": "random65",
@@ -1096,15 +1554,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["the future is greater; the best is yet to come"],
+        "definitions": [
+          "the future is greater; the best is yet to come"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Nkihuka", "Nkiru"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Nkihuka",
+      "Nkiru"
+    ]
   },
   {
     "id": "random66",
@@ -1113,15 +1578,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["the future is greater; what is to come is better"],
+        "definitions": [
+          "the future is greater; what is to come is better"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Nkiru", "Nkiruka"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Nkiru",
+      "Nkiruka"
+    ]
   },
   {
     "id": "random67",
@@ -1130,15 +1602,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["the future is greater; the best is yet to come"],
+        "definitions": [
+          "the future is greater; the best is yet to come"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Nkiruka", "Nkiru"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Nkiruka",
+      "Nkiru"
+    ]
   },
   {
     "id": "random68",
@@ -1147,15 +1626,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["my father lives"],
+        "definitions": [
+          "my father lives"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Nna", "Chidi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Nna",
+      "Chidi"
+    ]
   },
   {
     "id": "random69",
@@ -1164,15 +1650,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["motherhood is the best"],
+        "definitions": [
+          "motherhood is the best"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Nne", "Nnena"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Nne",
+      "Nnena"
+    ]
   },
   {
     "id": "random70",
@@ -1181,15 +1674,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["father’s mother; paternal grandmother"],
+        "definitions": [
+          "father’s mother; paternal grandmother"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Nne", "Nneka"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Nne",
+      "Nneka"
+    ]
   },
   {
     "id": "random71",
@@ -1198,15 +1698,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["father's father; paternal grandfather."],
+        "definitions": [
+          "father's father; paternal grandfather."
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Nna", "Nnenna"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Nna",
+      "Nnenna"
+    ]
   },
   {
     "id": "random72",
@@ -1215,15 +1722,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["mother's mother; maternal grandmother."],
+        "definitions": [
+          "mother's mother; maternal grandmother."
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Nnanna", "Nnenna"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Nnanna",
+      "Nnenna"
+    ]
   },
   {
     "id": "random73",
@@ -1232,15 +1746,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God’s time"],
+        "definitions": [
+          "God’s time"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Oge", "Chi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Oge",
+      "Chi"
+    ]
   },
   {
     "id": "random74",
@@ -1249,15 +1770,23 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God Almighty’s time"],
+        "definitions": [
+          "God Almighty’s time"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Ogechi", "Oge", "Chukwu"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Ogechi",
+      "Oge",
+      "Chukwu"
+    ]
   },
   {
     "id": "random75",
@@ -1266,15 +1795,23 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God Almighty’s work; the work of God Almighty"],
+        "definitions": [
+          "God Almighty’s work; the work of God Almighty"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Oluchi", "Olu", "Chukwu"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Oluchi",
+      "Olu",
+      "Chukwu"
+    ]
   },
   {
     "id": "random76",
@@ -1283,15 +1820,23 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God’s work; the work of God"],
+        "definitions": [
+          "God’s work; the work of God"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Oluchukwu", "Olu", "Chi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Oluchukwu",
+      "Olu",
+      "Chi"
+    ]
   },
   {
     "id": "random77",
@@ -1300,15 +1845,23 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["Who is greater?"],
+        "definitions": [
+          "Who is greater?"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Onyekachi", "Onyedika", "Onyedikachi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Onyekachi",
+      "Onyedika",
+      "Onyedikachi"
+    ]
   },
   {
     "id": "random78",
@@ -1317,15 +1870,23 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["Who is greater than God?"],
+        "definitions": [
+          "Who is greater than God?"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Onyeka", "onyedikachi", "Chi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Onyeka",
+      "onyedikachi",
+      "Chi"
+    ]
   },
   {
     "id": "random79",
@@ -1334,15 +1895,23 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["Who is greater than God Almighty?"],
+        "definitions": [
+          "Who is greater than God Almighty?"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Onyeka", "Onyedika", "Chukwu"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Onyeka",
+      "Onyedika",
+      "Chukwu"
+    ]
   },
   {
     "id": "random80",
@@ -1351,15 +1920,23 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["Who is like the Father?"],
+        "definitions": [
+          "Who is like the Father?"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Onyedikachi", "Onyeka", "Onyekachi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Onyedikachi",
+      "Onyeka",
+      "Onyekachi"
+    ]
   },
   {
     "id": "random81",
@@ -1368,15 +1945,23 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["Who is like God?"],
+        "definitions": [
+          "Who is like God?"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Onyedika", "Onyeka", "Chi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Onyedika",
+      "Onyeka",
+      "Chi"
+    ]
   },
   {
     "id": "random82",
@@ -1385,15 +1970,23 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["Who is like God Almighty?"],
+        "definitions": [
+          "Who is like God Almighty?"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Onyekachi", "Onyedika", "Chukwu"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Onyekachi",
+      "Onyedika",
+      "Chukwu"
+    ]
   },
   {
     "id": "random83",
@@ -1402,15 +1995,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God’s will; the mind of God."],
+        "definitions": [
+          "God’s will; the mind of God."
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Uche", "chi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Uche",
+      "chi"
+    ]
   },
   {
     "id": "random84",
@@ -1419,15 +2019,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God Almighty’s will; the mind of God Almighty."],
+        "definitions": [
+          "God Almighty’s will; the mind of God Almighty."
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Uche", "Chukwu"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Uche",
+      "Chukwu"
+    ]
   },
   {
     "id": "random85",
@@ -1436,15 +2043,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["Peace."],
+        "definitions": [
+          "Peace."
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["udoka", "Udochi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "udoka",
+      "Udochi"
+    ]
   },
   {
     "id": "random86",
@@ -1453,15 +2067,21 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["1. eagle; a large preying bird with a strong hooked beak and long broad wings, known for its keen sight and powerful soaring flight.  2. honor; a thing officially conferred as a distinction for an achievement"],
+        "definitions": [
+          "1. eagle; a large preying bird with a strong hooked beak and long broad wings, known for its keen sight and powerful soaring flight.  2. honor; a thing officially conferred as a distinction for an achievement"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Ugochi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Ugochi"
+    ]
   },
   {
     "id": "random87",
@@ -1470,15 +2090,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God's peace"],
+        "definitions": [
+          "God's peace"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["udo", "chi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "udo",
+      "chi"
+    ]
   },
   {
     "id": "random88",
@@ -1487,15 +2114,23 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God Almighty's peace"],
+        "definitions": [
+          "God Almighty's peace"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["udo", "chukwu", "udochi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "udo",
+      "chukwu",
+      "udochi"
+    ]
   },
   {
     "id": "random89",
@@ -1504,15 +2139,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God’s glory; the glory of God."],
+        "definitions": [
+          "God’s glory; the glory of God."
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["ugo", "chi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "ugo",
+      "chi"
+    ]
   },
   {
     "id": "random90",
@@ -1521,15 +2163,23 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God Almighty’s glory; the glory of God Almighty."],
+        "definitions": [
+          "God Almighty’s glory; the glory of God Almighty."
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["ugo", "chukwu", "ugochi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "ugo",
+      "chukwu",
+      "ugochi"
+    ]
   },
   {
     "id": "random91",
@@ -1538,15 +2188,23 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["the Father's glory; glory of the Father."],
+        "definitions": [
+          "the Father's glory; glory of the Father."
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["ugo", "nna", "ugochi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "ugo",
+      "nna",
+      "ugochi"
+    ]
   },
   {
     "id": "random92",
@@ -1555,15 +2213,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["way; road; path"],
+        "definitions": [
+          "way; road; path"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Chibuzo", "uzochi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Chibuzo",
+      "uzochi"
+    ]
   },
   {
     "id": "random93",
@@ -1572,15 +2237,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God's way; the way of God."],
+        "definitions": [
+          "God's way; the way of God."
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Chibuzo", "uzo"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Chibuzo",
+      "uzo"
+    ]
   },
   {
     "id": "random94",
@@ -1589,15 +2261,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God Almighty's way; the way of God Almighty."],
+        "definitions": [
+          "God Almighty's way; the way of God Almighty."
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Chibuzo", "uzochi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Chibuzo",
+      "uzochi"
+    ]
   },
   {
     "id": "random95",
@@ -1606,15 +2285,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["good path; good way."],
+        "definitions": [
+          "good path; good way."
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["uzo", "oma"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "uzo",
+      "oma"
+    ]
   },
   {
     "id": "random96",
@@ -1623,15 +2309,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["young male; boy"],
+        "definitions": [
+          "young male; boy"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Okoronkwo", "okorobia"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Okoronkwo",
+      "okorobia"
+    ]
   },
   {
     "id": "random97",
@@ -1640,15 +2333,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["young male; boy; male youth; teenager"],
+        "definitions": [
+          "young male; boy; male youth; teenager"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Okoronkwo", "okoro"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Okoronkwo",
+      "okoro"
+    ]
   },
   {
     "id": "random98",
@@ -1657,15 +2357,21 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["one who possesses strength or power; rooted in mystical strength."],
+        "definitions": [
+          "one who possesses strength or power; rooted in mystical strength."
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Ejiogu"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Ejiogu"
+    ]
   },
   {
     "id": "random99",
@@ -1674,15 +2380,21 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["one who possesses strength or power; rooted in mystical strength."],
+        "definitions": [
+          "one who possesses strength or power; rooted in mystical strength."
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Ejiogwu"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Ejiogwu"
+    ]
   },
   {
     "id": "random100",
@@ -1691,15 +2403,21 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["heart; home"],
+        "definitions": [
+          "heart; home"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Obinna"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Obinna"
+    ]
   },
   {
     "id": "random101",
@@ -1708,15 +2426,21 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["who knows tomorrow?; no one knows tomorrow."],
+        "definitions": [
+          "who knows tomorrow?; no one knows tomorrow."
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["echi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "echi"
+    ]
   },
   {
     "id": "random102",
@@ -1725,15 +2449,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["child of God."],
+        "definitions": [
+          "child of God."
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["chukwu", "Nwa"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "chukwu",
+      "Nwa"
+    ]
   },
   {
     "id": "random103",
@@ -1742,15 +2473,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["child of strength; strong child"],
+        "definitions": [
+          "child of strength; strong child"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Nwachukwu", "Nwa"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Nwachukwu",
+      "Nwa"
+    ]
   },
   {
     "id": "random104",
@@ -1759,15 +2497,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["King"],
+        "definitions": [
+          "King"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["chi", "Ezechi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "chi",
+      "Ezechi"
+    ]
   },
   {
     "id": "random105",
@@ -1776,15 +2521,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["king of the spirit; king sent by God."],
+        "definitions": [
+          "king of the spirit; king sent by God."
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["chi", "Eze"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "chi",
+      "Eze"
+    ]
   },
   {
     "id": "random106",
@@ -1793,15 +2545,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["the king of us all; our king."],
+        "definitions": [
+          "the king of us all; our king."
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["anyi", "Eze"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "anyi",
+      "Eze"
+    ]
   },
   {
     "id": "random107",
@@ -1810,15 +2569,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God Almighty has sent me."],
+        "definitions": [
+          "God Almighty has sent me."
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Chizitere", "Chukwu"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Chizitere",
+      "Chukwu"
+    ]
   },
   {
     "id": "random108",
@@ -1827,15 +2593,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God has sent me."],
+        "definitions": [
+          "God has sent me."
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Chizitere", "Chukwu"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Chizitere",
+      "Chukwu"
+    ]
   },
   {
     "id": "random109",
@@ -1844,15 +2617,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God has sent."],
+        "definitions": [
+          "God has sent."
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Chiziterem", "Chukwu"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Chiziterem",
+      "Chukwu"
+    ]
   },
   {
     "id": "random110",
@@ -1861,15 +2641,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God Almighty has sent."],
+        "definitions": [
+          "God Almighty has sent."
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Chizitere", "Chukwu"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Chizitere",
+      "Chukwu"
+    ]
   },
   {
     "id": "random111",
@@ -1878,15 +2665,21 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["Blessing"],
+        "definitions": [
+          "Blessing"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["gozie"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "gozie"
+    ]
   },
   {
     "id": "random112",
@@ -1895,15 +2688,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God Almighty's blessing"],
+        "definitions": [
+          "God Almighty's blessing"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["gozie", "Ngozi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "gozie",
+      "Ngozi"
+    ]
   },
   {
     "id": "random113",
@@ -1912,15 +2712,21 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["Good deeds; Goodness"],
+        "definitions": [
+          "Good deeds; Goodness"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Oma"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Oma"
+    ]
   },
   {
     "id": "random114",
@@ -1929,15 +2735,21 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["Good deeds; Goodness"],
+        "definitions": [
+          "Good deeds; Goodness"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Nmesoma"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Nmesoma"
+    ]
   },
   {
     "id": "random115",
@@ -1946,15 +2758,21 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["Goodness of God Almighty"],
+        "definitions": [
+          "Goodness of God Almighty"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Oma"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Oma"
+    ]
   },
   {
     "id": "random116",
@@ -1963,15 +2781,21 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["Goodness of God"],
+        "definitions": [
+          "Goodness of God"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Oma"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Oma"
+    ]
   },
   {
     "id": "random117",
@@ -1980,15 +2804,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God holds my portion; God is in control of my destiny."],
+        "definitions": [
+          "God holds my portion; God is in control of my destiny."
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Chijioke", "Oke"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Chijioke",
+      "Oke"
+    ]
   },
   {
     "id": "random118",
@@ -1997,15 +2828,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God holds the portion."],
+        "definitions": [
+          "God holds the portion."
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Chijiokem", "Oke"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Chijiokem",
+      "Oke"
+    ]
   },
   {
     "id": "random119",
@@ -2014,15 +2852,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["I am with God; Me and God;"],
+        "definitions": [
+          "I am with God; Me and God;"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Munachimso", "Munachino"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Munachimso",
+      "Munachino"
+    ]
   },
   {
     "id": "random120",
@@ -2031,15 +2876,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["I am walking with my God."],
+        "definitions": [
+          "I am walking with my God."
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Munachi", "Munachino"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Munachi",
+      "Munachino"
+    ]
   },
   {
     "id": "random121",
@@ -2048,15 +2900,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["I am with God."],
+        "definitions": [
+          "I am with God."
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Munachi", "Munachimso"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Munachi",
+      "Munachimso"
+    ]
   },
   {
     "id": "random122",
@@ -2065,15 +2924,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["the people's lady; the people's daughter"],
+        "definitions": [
+          "the people's lady; the people's daughter"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Ada", "Adaeze"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Ada",
+      "Adaeze"
+    ]
   },
   {
     "id": "random123",
@@ -2082,15 +2948,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["good/beautiful/fine thing; something good;"],
+        "definitions": [
+          "good/beautiful/fine thing; something good;"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Iheoma", "Oma"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Iheoma",
+      "Oma"
+    ]
   },
   {
     "id": "random124",
@@ -2099,15 +2972,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["good/beautiful/fine thing; something good;"],
+        "definitions": [
+          "good/beautiful/fine thing; something good;"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Ifeoma", "Oma"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Ifeoma",
+      "Oma"
+    ]
   },
   {
     "id": "random125",
@@ -2116,15 +2996,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God saves;"],
+        "definitions": [
+          "God saves;"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Chinaza", "Naza"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Chinaza",
+      "Naza"
+    ]
   },
   {
     "id": "random126",
@@ -2133,15 +3020,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["power of God; God's Strength"],
+        "definitions": [
+          "power of God; God's Strength"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Ikenna", "ike"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Ikenna",
+      "ike"
+    ]
   },
   {
     "id": "random127",
@@ -2150,15 +3044,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["I am following God"],
+        "definitions": [
+          "I am following God"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Munachimso", "chi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Munachimso",
+      "chi"
+    ]
   },
   {
     "id": "random128",
@@ -2167,15 +3068,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["the child is bountiful; bountiful/abundant child"],
+        "definitions": [
+          "the child is bountiful; bountiful/abundant child"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Obianuju", "Uju"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Obianuju",
+      "Uju"
+    ]
   },
   {
     "id": "random129",
@@ -2184,15 +3092,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["bountiful/abundant"],
+        "definitions": [
+          "bountiful/abundant"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Obianuju", "Ujunwa"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Obianuju",
+      "Ujunwa"
+    ]
   },
   {
     "id": "random130",
@@ -2201,15 +3116,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["One who came into abundance"],
+        "definitions": [
+          "One who came into abundance"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Uju", "Ujunwa"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Uju",
+      "Ujunwa"
+    ]
   },
   {
     "id": "random131",
@@ -2218,15 +3140,23 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["Child who came into abundance"],
+        "definitions": [
+          "Child who came into abundance"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Uju", "Ujunwa", "Obianuju"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Uju",
+      "Ujunwa",
+      "Obianuju"
+    ]
   },
   {
     "id": "random132",
@@ -2235,15 +3165,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["Gospel/Good news of god"],
+        "definitions": [
+          "Gospel/Good news of god"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Ozioma", "Chukwu"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Ozioma",
+      "Chukwu"
+    ]
   },
   {
     "id": "random133",
@@ -2252,15 +3189,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["Gospel/Good news of god"],
+        "definitions": [
+          "Gospel/Good news of god"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Ozioma", "Chukwu"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Ozioma",
+      "Chukwu"
+    ]
   },
   {
     "id": "random134",
@@ -2269,15 +3213,21 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["Good news; Gospel"],
+        "definitions": [
+          "Good news; Gospel"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Oziomachi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Oziomachi"
+    ]
   },
   {
     "id": "random135",
@@ -2286,15 +3236,21 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God says I shall live"],
+        "definitions": [
+          "God says I shall live"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["chi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "chi"
+    ]
   },
   {
     "id": "random136",
@@ -2303,15 +3259,21 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["He is greater"],
+        "definitions": [
+          "He is greater"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Chukwuebuka"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Chukwuebuka"
+    ]
   },
   {
     "id": "random137",
@@ -2320,15 +3282,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["god is great"],
+        "definitions": [
+          "god is great"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Chukwu", "ebuka"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Chukwu",
+      "ebuka"
+    ]
   },
   {
     "id": "random138",
@@ -2337,15 +3306,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["let God do it"],
+        "definitions": [
+          "let God do it"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["mezie", "chi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "mezie",
+      "chi"
+    ]
   },
   {
     "id": "random139",
@@ -2354,15 +3330,21 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["do it"],
+        "definitions": [
+          "do it"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["chimezie"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "chimezie"
+    ]
   },
   {
     "id": "random140",
@@ -2371,15 +3353,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["daughter of an eagle"],
+        "definitions": [
+          "daughter of an eagle"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["ugo", "adaeze"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "ugo",
+      "adaeze"
+    ]
   },
   {
     "id": "random141",
@@ -2388,15 +3377,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God answers"],
+        "definitions": [
+          "God answers"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Chinazo", "Chinaza-ekpere"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Chinazo",
+      "Chinaza-ekpere"
+    ]
   },
   {
     "id": "random142",
@@ -2405,15 +3401,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God answers prayers"],
+        "definitions": [
+          "God answers prayers"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Chinazo", "Chinaza"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Chinazo",
+      "Chinaza"
+    ]
   },
   {
     "id": "random143",
@@ -2422,15 +3425,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["Things are good; something good; good thing."],
+        "definitions": [
+          "Things are good; something good; good thing."
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Chidinma", "mmasi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Chidinma",
+      "mmasi"
+    ]
   },
   {
     "id": "random144",
@@ -2439,15 +3449,23 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God is good"],
+        "definitions": [
+          "God is good"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["chi", "mma", "ugomma"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "chi",
+      "mma",
+      "ugomma"
+    ]
   },
   {
     "id": "random145",
@@ -2456,15 +3474,21 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["let me live"],
+        "definitions": [
+          "let me live"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["chisimdi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "chisimdi"
+    ]
   },
   {
     "id": "random146",
@@ -2473,15 +3497,21 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God protects/saves"],
+        "definitions": [
+          "God protects/saves"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Chinazo"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Chinazo"
+    ]
   },
   {
     "id": "random147",
@@ -2490,15 +3520,21 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["Love"],
+        "definitions": [
+          "Love"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["ịhụ̀naanya"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "ịhụ̀naanya"
+    ]
   },
   {
     "id": "random148",
@@ -2507,15 +3543,21 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["Love"],
+        "definitions": [
+          "Love"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["ifunaya"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "ifunaya"
+    ]
   },
   {
     "id": "random149",
@@ -2524,15 +3566,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["her mother's daughter"],
+        "definitions": [
+          "her mother's daughter"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["adanna", "adaeze"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "adanna",
+      "adaeze"
+    ]
   },
   {
     "id": "random150",
@@ -2541,15 +3590,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["god bless"],
+        "definitions": [
+          "god bless"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["gozie", "ngozi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "gozie",
+      "ngozi"
+    ]
   },
   {
     "id": "random151",
@@ -2558,15 +3614,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["god is live"],
+        "definitions": [
+          "god is live"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["chibuzo", "chibueze"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "chibuzo",
+      "chibueze"
+    ]
   },
   {
     "id": "random152",
@@ -2575,15 +3638,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["life is greater"],
+        "definitions": [
+          "life is greater"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["chibundu", "ndu"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "chibundu",
+      "ndu"
+    ]
   },
   {
     "id": "random153",
@@ -2592,15 +3662,21 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["It is in (God’s) hands"],
+        "definitions": [
+          "It is in (God’s) hands"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["odinakachukwu"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "odinakachukwu"
+    ]
   },
   {
     "id": "random154",
@@ -2609,15 +3685,21 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["It is in God’s hands"],
+        "definitions": [
+          "It is in God’s hands"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["odinaka"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "odinaka"
+    ]
   },
   {
     "id": "random155",
@@ -2626,15 +3708,21 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God follows me"],
+        "definitions": [
+          "God follows me"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Chikamso"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Chikamso"
+    ]
   },
   {
     "id": "random156",
@@ -2643,15 +3731,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["who knows tomorrow?"],
+        "definitions": [
+          "who knows tomorrow?"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["echi", "Amaechi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "echi",
+      "Amaechi"
+    ]
   },
   {
     "id": "random157",
@@ -2660,15 +3755,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["Good journey"],
+        "definitions": [
+          "Good journey"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Nneoma", "ozioma"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Nneoma",
+      "ozioma"
+    ]
   },
   {
     "id": "random158",
@@ -2677,15 +3779,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["What is greater than God Almighty"],
+        "definitions": [
+          "What is greater than God Almighty"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Onyedikachukwu", "Ginika"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Onyedikachukwu",
+      "Ginika"
+    ]
   },
   {
     "id": "random159",
@@ -2694,15 +3803,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["What is greater than God"],
+        "definitions": [
+          "What is greater than God"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Onyedikachi", "Ginikachukwu"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Onyedikachi",
+      "Ginikachukwu"
+    ]
   },
   {
     "id": "random160",
@@ -2711,15 +3827,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["Who is wealthier?"],
+        "definitions": [
+          "Who is wealthier?"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Onyedikachi", "Ginikachukwu"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Onyedikachi",
+      "Ginikachukwu"
+    ]
   },
   {
     "id": "random161",
@@ -2728,15 +3851,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God answered me"],
+        "definitions": [
+          "God answered me"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Cheta", "chinaza"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Cheta",
+      "chinaza"
+    ]
   },
   {
     "id": "random162",
@@ -2745,15 +3875,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["to recall to the mind by an act or effort of memory; remember"],
+        "definitions": [
+          "to recall to the mind by an act or effort of memory; remember"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Chetachi", "chinaza"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Chetachi",
+      "chinaza"
+    ]
   },
   {
     "id": "random163",
@@ -2762,15 +3899,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["Good mother"],
+        "definitions": [
+          "Good mother"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Nneoma", "nneka"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Nneoma",
+      "nneka"
+    ]
   },
   {
     "id": "random164",
@@ -2779,15 +3923,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["Remember God"],
+        "definitions": [
+          "Remember God"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Cheta", "chi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Cheta",
+      "chi"
+    ]
   },
   {
     "id": "random165",
@@ -2796,15 +3947,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["Remember God"],
+        "definitions": [
+          "Remember God"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Cheta", "chetachi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Cheta",
+      "chetachi"
+    ]
   },
   {
     "id": "random166",
@@ -2813,15 +3971,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["Good heart"],
+        "definitions": [
+          "Good heart"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["Obinna", "Obi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "Obinna",
+      "Obi"
+    ]
   },
   {
     "id": "random167",
@@ -2830,15 +3995,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["The road is good and clear"],
+        "definitions": [
+          "The road is good and clear"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["amaka", "uzomma"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "amaka",
+      "uzomma"
+    ]
   },
   {
     "id": "random168",
@@ -2847,15 +4019,21 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God thinks for me (God takes care of my worries)"],
+        "definitions": [
+          "God thinks for me (God takes care of my worries)"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["chineche"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "chineche"
+    ]
   },
   {
     "id": "random169",
@@ -2864,15 +4042,21 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God thinks for me (God takes care of my worries)"],
+        "definitions": [
+          "God thinks for me (God takes care of my worries)"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["chineche"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "chineche"
+    ]
   },
   {
     "id": "random170",
@@ -2881,15 +4065,21 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["Join me in praising God"],
+        "definitions": [
+          "Join me in praising God"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["somto"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "somto"
+    ]
   },
   {
     "id": "random171",
@@ -2898,15 +4088,21 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["Join me in praising God"],
+        "definitions": [
+          "Join me in praising God"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["somto"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "somto"
+    ]
   },
   {
     "id": "random172",
@@ -2915,15 +4111,21 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["Join me in praises"],
+        "definitions": [
+          "Join me in praises"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["somtochi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "somtochi"
+    ]
   },
   {
     "id": "random173",
@@ -2932,15 +4134,21 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["holding onto the greatest; what I hold is greater."],
+        "definitions": [
+          "holding onto the greatest; what I hold is greater."
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["jide"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "jide"
+    ]
   },
   {
     "id": "random174",
@@ -2949,15 +4157,21 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["grasp; hold on to."],
+        "definitions": [
+          "grasp; hold on to."
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["njideka"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "njideka"
+    ]
   },
   {
     "id": "random175",
@@ -2966,15 +4180,21 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God’s work is beautiful"],
+        "definitions": [
+          "God’s work is beautiful"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["oluchi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "oluchi"
+    ]
   },
   {
     "id": "random176",
@@ -2983,15 +4203,21 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God’s work is beautiful"],
+        "definitions": [
+          "God’s work is beautiful"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["oluchi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "oluchi"
+    ]
   },
   {
     "id": "random177",
@@ -3000,15 +4226,21 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["beautiful work"],
+        "definitions": [
+          "beautiful work"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["oluomachi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "oluomachi"
+    ]
   },
   {
     "id": "random178",
@@ -3017,15 +4249,21 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God is doing things for me; God acts on my behalf."],
+        "definitions": [
+          "God is doing things for me; God acts on my behalf."
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["emerem"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "emerem"
+    ]
   },
   {
     "id": "random179",
@@ -3034,15 +4272,21 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["did for me; has done it for me"],
+        "definitions": [
+          "did for me; has done it for me"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["chinaemerem"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "chinaemerem"
+    ]
   },
   {
     "id": "random180",
@@ -3051,15 +4295,21 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["lean on God"],
+        "definitions": [
+          "lean on God"
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["dabere"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "dabere"
+    ]
   },
   {
     "id": "random181",
@@ -3068,15 +4318,21 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["lean on; lean upon."],
+        "definitions": [
+          "lean on; lean upon."
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["daberechi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "daberechi"
+    ]
   },
   {
     "id": "random182",
@@ -3085,15 +4341,21 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["lean on God Almighty."],
+        "definitions": [
+          "lean on God Almighty."
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["daberechi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "daberechi"
+    ]
   },
   {
     "id": "random183",
@@ -3102,15 +4364,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["Only God knows."],
+        "definitions": [
+          "Only God knows."
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["chima", "sochi"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "chima",
+      "sochi"
+    ]
   },
   {
     "id": "random184",
@@ -3119,15 +4388,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["Only God."],
+        "definitions": [
+          "Only God."
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["chima", "sochima"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "chima",
+      "sochima"
+    ]
   },
   {
     "id": "random185",
@@ -3136,15 +4412,21 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God gives; God has given."],
+        "definitions": [
+          "God gives; God has given."
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["chinenyenwa"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "chinenyenwa"
+    ]
   },
   {
     "id": "random186",
@@ -3153,15 +4435,21 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God gives child; God has given child."],
+        "definitions": [
+          "God gives child; God has given child."
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["chinenye"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "chinenye"
+    ]
   },
   {
     "id": "random187",
@@ -3170,15 +4458,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God is with me; God stays with me."],
+        "definitions": [
+          "God is with me; God stays with me."
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["chinenye", "nonye"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "chinenye",
+      "nonye"
+    ]
   },
   {
     "id": "random188",
@@ -3187,15 +4482,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["Be with (someone); Stay with (someone)."],
+        "definitions": [
+          "Be with (someone); Stay with (someone)."
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["chinenye", "chinonye"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "chinenye",
+      "chinonye"
+    ]
   },
   {
     "id": "random189",
@@ -3204,15 +4506,22 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["(He/She) stays with me; Is with me."],
+        "definitions": [
+          "(He/She) stays with me; Is with me."
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["chinenye", "chinonye"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "chinenye",
+      "chinonye"
+    ]
   },
   {
     "id": "random190",
@@ -3221,14 +4530,21 @@
     "definitions": [
       {
         "wordClass": null,
-        "definitions": ["God is with me; God stays with me."],
+        "definitions": [
+          "God is with me; God stays with me."
+        ],
         "nsibidi": null
       }
     ],
     "audioUrl": null,
     "tenses": null,
     "attributes": null,
-    "tags": ["name"],
-    "relatedTerms": ["chinenye", "chinonye"]
+    "tags": [
+      "name"
+    ],
+    "relatedTerms": [
+      "chinenye",
+      "chinonye"
+    ]
   }
 ]
