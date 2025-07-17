@@ -31,7 +31,7 @@ with open(JSON_FILE, "r", encoding="utf-8") as f:
 original_data = deepcopy(data)
 
 # Get closed issues with 'audio-needed' label
-issues_url = f"https://api.github.com/repos/{GITHUB_REPO}/issues?state=closed&labels=audio-needed&per_page=100"
+issues_url = f"https://api.github.com/repos/{GITHUB_REPO}/issues?state=closed&labels=approved&per_page=100"
 issues = requests.get(issues_url, headers=headers).json()
 
 for issue in issues:
