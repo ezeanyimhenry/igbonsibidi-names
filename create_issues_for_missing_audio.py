@@ -96,7 +96,7 @@ issued_words = load_issued_words()
 for entry in data:
     word = entry["igboWord"]
 
-    if entry.get("audioUrl") or word in issued_words:
+    if entry.get("pronunciation") or word in issued_words:
         continue
 
     issues = search_existing_issues(word)
